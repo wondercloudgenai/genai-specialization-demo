@@ -1,0 +1,19 @@
+project_id: "xxxxxxxxx"
+location: "us-central1"
+
+tuning:
+  tuned_model_display_name: "xxxxxxxxx-game-customer-tuned_v3"
+  base_model: "xxxxxxxxx"
+  timeout_hours: 6
+  epochs: 30
+  learning_rate_multiplier: 5
+  adapter_size: 4
+  export_last_checkpoint_only: True
+
+dataset:
+  train_url: "gs://xxxxxxxxx/train_dataset.jsonl"
+  val_url: "gs://xxxxxxxxx/validation_dataset.jsonl"
+
+evaluation:
+  experiment_name: "game-customer-eval"
+  prompts_file: "prompts.txt"

@@ -1,0 +1,10 @@
+protobuf~=5.29.5
+jsonlines~=4.0.0
+pandas~=2.3.1
+plotly~=6.3.0
+rouge-score~=0.1.2
+tqdm~=4.67.1
+google-genai
+google-cloud-aiplatform
+google-cloud-storage
+pyyaml~=6.0.2

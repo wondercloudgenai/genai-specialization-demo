@@ -1,0 +1,15 @@
+# .gitignore
+# 忽略 Python 虚拟环境
+venv/
+__pycache__/
+*.pyc
+.vscode
+.DS_Store
+__pycache__
+json/
+traning
+.env
+main.py
+model.pkl
+白皮书-Vertex AI 出租车服务.docx
+Segway-Ninebot.drawio

@@ -1,0 +1,61 @@
+{
+  "eval_set_id": "evalset1aa7e9",
+  "name": "evalset1aa7e9",
+  "description": null,
+  "eval_cases": [
+    {
+      "eval_id": "casec35f54",
+      "conversation": [
+        {
+          "invocation_id": "e-58f819d8-214a-4db2-9306-10138f649a35",
+          "user_content": {
+            "parts": [
+              {
+                "video_metadata": null,
+                "thought": null,
+                "inline_data": null,
+                "file_data": null,
+                "thought_signature": null,
+                "code_execution_result": null,
+                "executable_code": null,
+                "function_call": null,
+                "function_response": null,
+                "text": "1+1 什么时候不等于2"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": {
+            "parts": [
+              {
+                "video_metadata": null,
+                "thought": null,
+                "inline_data": null,
+                "file_data": null,
+                "thought_signature": null,
+                "code_execution_result": null,
+                "executable_code": null,
+                "function_call": null,
+                "function_response": null,
+                "text": "“1+1不等于2”这个问题可以从多个角度来理解，其中一些涉及数学概念，另一些则更偏向于常识或脑筋急转弯。\n\n在数学领域：\n*   **不同进制下**：在二进制中，1+1=10。这里虽然看起来不等于2，但实际上10在二进制中就代表了十进制的2。\n*   **不同的数学系统或定义**：在一些特殊的数学体系中，例如“热带几何”（Tropical Geometry）中，a+b=max{a,b}，这种情况下1+1可能不等于2。 另外，在模运算（例如模2算术）中，1+1=0 (mod 2)。\n*   **布尔代数**：在布尔代数中，如果1代表“真”，0代表“假”，“+”代表“或”运算，那么1+1=1（真或真仍为真）。\n*   **集合论**：在集合论中，如果两个集合A和B分别包含一个元素，且这两个元素相同，那么A并B仍然只包含一个元素。\n\n在非数学领域（常识或脑筋急转弯）：\n*   **物理或化学现象**：例如，1毫升的酒精加入1毫升的水，混合后体积通常小于2毫升，因为分子间存在空隙。\n*   **特定语境下**：\n    *   当1和1不是指抽象的数字，而是指具体的事物，例如1男和1女结婚，可能会产生多个人。\n    *   在文字游戏或脑筋急转弯中，1加1可能等于“王”（汉字）。\n    *   “1+1”代表一种协作或组合，可能产生大于2的效果（例如“1+1>2”常用来形容团队合作的增效）。\n*   **哲学或思辨**：爱因斯坦曾说：“只要数学涉及实在，它就是不确定的；如果它是确定的，那就与实在无关。” 这表明在某些哲学层面上，抽象的数学公式可能无法完全涵盖现实世界的复杂性。 康德也曾告诫，理性形式只是人认识世界的主观尺度，过于精确的定义反而可能将我们与无限复杂的宇宙隔离开来。"
+              }
+            ],
+            "role": null
+          },
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          },
+          "creation_timestamp": 1757402779.225402
+        }
+      ],
+      "session_input": {
+        "app_name": "chat-agent",
+        "user_id": "user",
+        "state": {}
+      },
+      "creation_timestamp": 1757402868.57511
+    }
+  ],
+  "creation_timestamp": 1757402847.4523141
+}

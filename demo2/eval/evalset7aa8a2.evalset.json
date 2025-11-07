@@ -1,0 +1,256 @@
+{
+  "eval_set_id": "evalset7aa8a2",
+  "name": "evalset7aa8a2",
+  "description": null,
+  "eval_cases": [
+    {
+      "eval_id": "casef29fd5",
+      "conversation": [
+        {
+          "invocation_id": "e-a71eb304-6919-4a08-a6e8-3f47b5c9cbbf",
+          "user_content": {
+            "parts": [
+              {
+                "video_metadata": null,
+                "thought": null,
+                "inline_data": null,
+                "file_data": null,
+                "thought_signature": null,
+                "code_execution_result": null,
+                "executable_code": null,
+                "function_call": null,
+                "function_response": null,
+                "text": "GCP monitoring报警信息发送到企业微信"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": {
+            "parts": [
+              {
+                "video_metadata": null,
+                "thought": null,
+                "inline_data": null,
+                "file_data": null,
+                "thought_signature": null,
+                "code_execution_result": null,
+                "executable_code": null,
+                "function_call": null,
+                "function_response": null,
+                "text": "企业微信目前不支持直接接收GCP的监控报警信息.\n\n不过，你可以通过以下几种方式来实现GCP报警信息发送到企业微信：\n* **使用Webhook或API网关作为中间件**：\n    1. 配置GCP Monitoring的通知渠道为Webhook，将报警信息发送到一个中间件（如Cloud Functions, Cloud Run, 或者自建服务）.\n    2. 这个中间件接收到GCP的报警信息后，解析内容，然后调用企业微信的机器人Webhook或API，将格式化后的信息发送到企业微信群或指定成员.\n* **利用第三方集成工具**：\n    1. 有些第三方工具（如Zapier, IFTTT等）可能提供GCP与企业微信之间的集成，你可以探索一下是否支持.\n    2. 这些工具通常通过预设的连接器或工作流，将GCP的报警事件触发企业微信的通知.\n* **使用消息队列服务**：\n    1. GCP Monitoring将报警信息发送到Pub/Sub主题.\n    2. 编写一个订阅Pub/Sub主题的服务（例如Cloud Functions），该服务在接收到消息后，调用企业微信的API发送通知.\n\n无论采用哪种方式，关键都是要有一个中间层来处理GCP的报警信息，并将其转换为企业微信可识别的格式进行发送。"
+              }
+            ],
+            "role": null
+          },
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          },
+          "creation_timestamp": 1756967335.424532
+        },
+        {
+          "invocation_id": "e-106725a5-ed0e-44cc-906a-669856649430",
+          "user_content": {
+            "parts": [
+              {
+                "video_metadata": null,
+                "thought": null,
+                "inline_data": null,
+                "file_data": null,
+                "thought_signature": null,
+                "code_execution_result": null,
+                "executable_code": null,
+                "function_call": null,
+                "function_response": null,
+                "text": "这是一只狮子"
+              },
+              {
+                "video_metadata": null,
+                "thought": null,
+                "inline_data": {
+                  "display_name": "5.jpg",
+                  "data": "_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBxISEhUTExQWFRUXGBcZFhgXFxcXFxcYFhgZFhYXGBUYHSggGBolHRcVITEhJSkrLi4uFx8zODMtNygtLisBCgoKDg0OGhAQGy8lICYvLS0tLy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf_AABEIALcBEwMBIgACEQEDEQH_xAAbAAABBQEBAAAAAAAAAAAAAAAEAAIDBQYBB__EAD4QAAEDAgQEBAQEBAUEAwEAAAEAAhEDIQQSMUEFIlFhcYGRoQYTMrFiwdHwFEJS4RUjgqLxFjNy4iSSwgf_xAAZAQADAQEBAAAAAAAAAAAAAAAAAQIDBAX_xAAkEQACAgICAgICAwAAAAAAAAAAAQIRAyESMRNBBFEyYRQiQv_aAAwDAQACEQMRAD8Aq8Jx4OBTzxwmwVS3Aup7IarVM2C6smSa0YRimarD8WmxVph64cLLF4CsZ5lruHOaW2W2OTa2RJJPQaCuhNATwFoSdCcFwBPDUDEE4LoanhqQhoCcAnBqcAgBgC7CfC7CAGQlCfCUIAYVwLMfFvF30rNWf4f8TVA8SZErKWaMZcWFHo8LkJmCrZ2BylfYLUBhIXLLGcc4pUFQhpsgqfHaoIAMrB54qVD4s2-LxAaO6zuN4tVG1kfhsS6oyS26pOJ4gixCeWTUbRUVZCeIuJuSihiLSHFUzjAzK3w7RUpTEFcuK5J0zSSoGq45xBEyqTFkjTVTVGPaSgS1zn-Gq5nyctspImwdaDzFa74eDScwdKyTad7ovD1nUzLFtiyqMtikrR6Ikq3geLdUbzaqyXpp2rRgJcKS4gDhCS6kgZWYqhNMhY3EYSpnVz_jtkLhuJF7ySNFzS-TifspQdhfDeElwk2WjwmHFMQFnqPHg2yWP4y5zeRX_IxVaZPCRqWvB3UrQvOsHxeo10mSr3DfEbjsUo_Jg-9DcJGsAUjQqClxyVMzjYT8-P7Fxl9F4AnAKgPHhMKQceCPPj-w4v6L0BdhU_8AjYXf8bCPPj-w4v6LiEoVK7jfQKuq8fqF0BtlD-ViX-g4y-jWQoquIa3UqkbxN5b3QjaFSrdxhZv52KtFeOQbxtlBwzPgrMUKlAP-n2RmN4dU0mQhm0GsFxdYZPl8q4mkMX2XzONsYABZWGE4g2qIWGxTXE8oKnpYt1MT01Tx_KlyuXQ3hVaLbiHCYcTEyoOHcNbnlwhVQ-M2Ndke7_xfqB0Du2x8Fzi_xSBlA0c0mQZ2Pt-q6fLiW0R4p9HoFD5YAgiIVRxXh4qGxCw-A469zJLjt6nYK_4fXPK51SL7n2Uz-VBqmhrDJOwyh8PX5ohWFTBNa3K1V-Pr1S4ZTZCOxNQWMqI_Lxw0kEoSuys4s0sJAEqT4ewObMXAJ2LDyZiQm08VUaOUQFzPNHldFq0S4zhmuUbqeh8OlzQZuhWYyoUbR4zUZYtJ8l1QzYJdoycZ-g7g-DfTcQYhXJKzuHxlXNmIsp8RxF2yv-VhjpC8cmXJXJVNS4m6LhD1OMKn8zElY1ikaHMks0ONFJL-ZjDxSCT8OsKePh5vVWOEqyESSvJs7uMSp_6ZZCnb8PMARnzTKf8AOMI5MVRKDE8GaLNCiHw_Uy8q0NOeimfiMtihyaFxiZalwOpNyj8LwZ0G60lINK4IGinkx0jPf9Nu1zIrCcDyjmuVetpldFtUWw4op24AA3FlKOFsJR-LqAwlRqMmLSgKQA7h4BAAsi_8LaRoAu43iLKUZjropzVLwCDZKgSQI_hYGieeG2sVMQ4bqan3RQ6BG8NtcoHE_D7XHVXrKgTalRuyrobRluJ8PZQbqJ_d4Xn_AMQ8Yc53y6QIPUHXtEX81v8A4lw9i8yTBtt5_vZZjgvBHk_MLRuQCL_hPnYqfKo9mscVrRkjw1rfru466266eeyIpcPGUwBl1vO_QT94WsxPBxTABAzZZd1J_wCcvoUB_CF9Foucx0FhJmCetmlLzto08KRXcE4RUrNsQxtsucy5w6ho277o3G8Lr4ZwzGSRIcCQDHTcHt3CJwuPqnENoBjbNM2mAJggAG5Ps0qL40xx-ZTpNcXhoJeXTbNYXidifMIjKfNfsmUYcWaD4c41SfFN5yuNhI38Y-6vq_A8115RRqvpuzg_6jf3XqXwhxX51PMTf10AGq2kl2jCl0SUeDQIN1JX4QCyALq3NQBdbXAUaBRRkDwNzSiaWFAN2rQ1nShalObpN7FxAazWhmio8a7LEbrUmiC1VnEuFh8QqTQ3Ez9Kte-iF4k8bCVoWcCi8qZvCKaOSFVmBqPeD9JSXoX-G0jsElVoODIAzK2ykpVFUVuIECERRxEtlZiuyypgyjBTkQgaFbQjzU7sSAVDY6HgloJNoQeG4iyoSJ0QnGuI8mXqs3gCBUIBM733VxVozct6PR6NRoCgdj2MdzFYtnFKoJA2Ka-o6q-SdlG7DmarGfErGtJGuyz-N-JKjxawQb8KXjwSfgAWgK1Xszk5MhqfENURzKXB8ReWvcCZtCY3g4cbKywnDIaBreT5I0SotsrcZjXmoGvM5QJPc3VlR44-m2AZGyEx_DHOktmSVzhPBqkw-6LoFyT0bHg3ETUYC4KbGYyHATZZ99VzBkZoF14Dhc38VJvbL7-OGgupdlncEQHaq_L5AQw5P2QYnCGs9tORBF5NgP5iesCTCsDhsOx_z3DldygkAQBo4-ZaAhcLgTVqtkw1t3mY5ek99PVGfE9ClXpGhAiaeawMMYc0NabFxLQL7T4KfHZ0wyPiVHF-HEkuYc7Xi0bDa_71VRS4bb5ZbLGi8gw7q3af7rc8FwLaVIsgt3Au6LW5vzgeAVLxlpaHM01v5Fc2T-r0dUHy7KnB8Eo5hUblpva0tDBItBIJ6u8SdYssTxDhFX5zqjxOZxuOrRHlaPTxW6wNSabnFpB7xtbbuPZR4MB9NznN_mLupsIt3ELVZJbZDgujDCmQSA6DplcPzU_Aca5lcB0tE3AJg-ivcRgKbhMB33i5t0MaHy2WarU2seIJIJGpmAdLnyXRinapmOSNHqtKtIBNk4kEqu4HWz0xI23Vg9kKaaOexzq4Ci_jBooK1OQlSw6KHZOaqHqvIMhOrMlPpO5CCLpews6yqSEym-SmMDpjZDVMO5pnqnQw80Uk5hMBJMowFem4m2wkqwZSdmb0ICJNEFvcxPkUZUDs4AFoCZhWwcZ2NcCe4CFxjqgaO6v304cJvIUlWkHNBIsLKXVjkjMVsKSzv1VaMI5mgvJK3TqDMogW2TavDmkzGxRy-hcTHYeQAXC5T6TpfERK1NLhbCOsJYThjWvkotCM8KJZmvMhSYUQCHBajEcOYZsmswLSw2RyQ2vopKLxFlbUaYDQQNvuo6XDBsrGnQholJhFA1BvUKAg5iFZupctkqeFFzMlIdFDjMCToYTKnC38sHVaAsHRcrM5BFoTbY60VTeGhviiH0326JzHy66mrEgjWExVfYRQxD6QAA1Nxuf2EVhoqOLr5e-0azMdPZZXB8GxuLxYp1cQ_wDhXTJZlBeAB_lPiC1zmiJFoa7rA2VakaTjnMMmwEtGsCBeTtqPdOcONPs6YSTVIOZWLRdtp212ggRHuspx3Ftq1Muh-mN7XM99VbVsY2lScXuh0ZiAQcoJgZrkjQC_VYduIzVnvuBlkiSeabXO8XssckXxNMb2Hh4l40NzHjHtP3QmCxGV4pzbIHR1l0EeoKReHOfBEkMBOx5bj99Vl8bxYsxVR02awR4GJI8JJhLHju0VOdUy5xFR1Mh06nmHUHfx38iqDij2l8tgOB-5vB6EyY7p-L4tnGWbbdQQevhcKoqS46zr1E-uq3xxrsynK-j1X4bqg0wT9oV1VpzoqD4IxTHYaNx11tY-6v6ZMokqZjRGygRqhJcXRoFZtfYdVG_XS6jYNA7KTs8RZTGkGuup2VoCB4g45r9FaQJDjVSNVpF1FQolwOyixlO1td06RVE7KttF1B0s8C6SdIWiGnggQ462siqVMOaJ1CgwuZsCdiCpqJE-YMKGiSTEUua3QKalEZSNiuYhonONwuUYL29hfwUhITqcNjuE-m22qfii0k30UVKsHDsNT3RRKex9OnlmE-rSm_VOFQBs7_qo8a4taI6381SQaEHnQXhRPebqOgHgm8qWobNB_FKTQVeiLD1JReIAtfaPND0PZNxBkPkwQCR2hCWwiqIs7idbbBGUqgZAJVbRqSGO1_Od0VWeJvtp4qmiqJa1UAzsmB_1DzCrq2OBcWkX_eqmrVgGgk5VKETFpDbapYhzyJ0DRfuVG_FBrXOJBkDKAbpVsSMpHQAwqokz2Ox4pPa6o54pl7TVyOLSGtPK60EAGDa5urrinHsMA19THVTTtlADXdNKuUvOo3Wf-I6DalOzpuCRHS9-2vqvMcXQvLRafQ9gt8aTVMfJpWi_4t8QND3tw5eKTnNc57nOdVqOZcEuJsJ-w8Fe4HFl-VriSOQvIhpeba5QNTvraOqwVMQBa4P5TPrCvcLWIccnWpHXqPLRLNBUaYpuzU8eqGmxxbqQLg7iwWOxGHqVHPcTzEEj2Mekq5x7XuaM38wPrYfr6rlaoGsBG32NrrPG-K0VP-z2ZygXTE30-4Ct8CM5IcI_X9yql7-Y95_fsiMCHPMDWJ8YF_yW8laM06Nf8O499CqxkgseS0i31bO84XoDa2kHmGqxnwzw1paxz2hxF5jQjQjv3WqoUgWgtJ3zdlzyabGnsLoVpBza7LrKxzGfJQOYJF7nRSOwpuZuEk7YdsfREk-BUVcudAi6ioVcvc3HqpXYgkDaENCkiP5hENXATJJPb9FG4bjqmVql-3VIEIBySlFZp2STFxGUnSLmT9pXaViSd5-yGwb2baHmM9hooK1cyADCaRpRYGt_lkHUD-yjwlXmLrmBHsuPdmGliRHe0_cJtUwwjQvMR2G6QpAmMxhcRFm-5gx6IzBYiBAEiFEzBDKYFxAAJiybgXuDMpsdpHqpMi2bicocSLKKhiMwIOsT4wUxrABc8psOxROGYDDdTe46FUxxdnXVg1oP9U-yhrV__jkt1zW9NETTwAgB5Jgmw7qP-Hp5XMA0dIn0QqQU7BcJiwb-Fk0y9hebC-qEq0wwOOa9yABpFoUfFMeTSDAJBILo6RYeqaHGq2SOqNAAaI0A_XsljquVljobqDDES3NuD4f8qHH1_wDKqG5kwABJ8VPbBOyrr4mXh4kNcYH6q8oYhj2ZrmND4WKyorCAxwJgWI9p7orBve1hawTM26jqFfH2QnsKNeJDj9H0DcyhaXEi01A4mSLNj6VDUOZ4ygzZrrHQ6J9QDNe8HKT0npui0JyDcTUDqbQSZI3G_wCaxXEsPlOaIboPLXzK1mLwD2NDQHOM_UZ6Wssv8Rh3KDsI_UrXE7YKRTfLBkzrOytOHk2dsAQeuljdAOZYQ3QEeMWVhgXxMwbGfHb3KvItGkOy6dXlsHQadtd_P2VbiwNRpl9R-7qLF48NkDrtveEyjzMYDrFz46fl6LKMKNJSsAxNICDe-tpV98G4Rrm1HnYhre0i6q8TyiDeLW8Nlovgek5rjmGZjzaP6omPdaZPwZi-zXYVhAYG7iO0DdW7KpaQyADueqFbVcSGgaflsnYnO7K4tADSBY3J3XChqgnGPEtmzW3ke6e7FSQW9LzpCpsY8ucWgkAba-JlENpvbG8gAduqaf0NKwprg4kbp1am0QS7WIVeaxaRBAJi3ZEZmvPQj06q1IOh7ntBjr7IR_8A3CB9I07p7sCSJDranwUVSgCQQYOx8FVoGztu6Sk_hSbh64psn-wH8giC020SZS1OtxdRNrOIiLa22A_ZU1KvBLTP8vgQVaTHZd4d7flAu1zENA8ND7popAPEiCNzcKu-flYQDeZB6TZNGKMybiNO_VS6Kci4p0w47EDaFE5gcbQIiQgXvc4AtJERbrNvNTUKjiIgagd906FdhRp8pDiNZEduqayo6G9QfUf2Q1QEERc6Qf3dTEuFyY7DZImwurWcWyBeUNWrlpm19_1TBiHZXQLaj8590MC5w2jX9UOymxYPKXEk3Ez0OZVmRwqEGIIiYtrYqxp4YiZ0OpHROq4KYJdaCAdPBK0Q5aAqw-mNRa3hsoXYINZlDiXE9xYqzoNY0m8k-mmyHr4qSSBMe8Ii9mTlQLhMA0ulw0ECOvdOfhhTcXyANmoh9YsDTESQT063QnFK-ZsnlE7X1vdPkFtoYMOS4OHKCP2VLUDWczQM83jupcEwEkOnKI03GyZj-Gy7M0943g9EJoEiDD44aOkGSdFyr8OtxYa4WlxLvIwPYafiS_gHOOV0iBcwZ06rQ8Gc1shuhiZ6kax5FUpV0a4oxsyXxpwkU4-XTgMaAIFtLe8LHVBlsdf3IXvuKwAqNFgYidOtrHoVguL_AA62nVaYBlrswIsTnE2_1ELSMnRrPWzzql8onM-I8DM-A7lF4djwSHMc3aCIvEie_wCq1bfh1pNM02DLnzxoNo__AD6-m-xPw1TeCXAczRtABbOU-Nym5-xQXI8Wbh88jLB2t0_futDwl3yJEAWa639TZ_VSfEGDbRdDRdpAA6tuQfKXeyl4QC9zg4fyGPGRf7qnuDM5r0W3D-MMfqOdtxJ9yN1Y0MeRJLZnSdFV8O4a1sne8ny6_l2RtVtoJOwjpbeCuSq6ErRHiMSMwcQGHYQXAnpbrKsBiRmg2Npb2PRD0KHRwAtOYXkdFHiWyZH1d-iVGi_ZJUptc4um4FvyQ-IpGMzSIBi9rnZQYNpcZda-378EZi8rBkEkC7j3KfEdWrIn8VEABsRYg6GP1VRXxzw8mIbMDre9lZ1C0Ny2Mkd9bhDv4ax0Q4kxBm0TaytEuxlPH2GqSlZw1oEQUkBTO06zhy9QA0n99oTc8XJ5dyYFuqQ4g3IGiCQXH6T0AH3Q-JMAcoEzImRr028EUyWmTVqwnMDMg2G4Gn6rtJ_zHC0QBP8Afuhm8QEQG3bpA8tOmvgpRUAPQu1J28Etom3ZaYetLRNiDbyvHonMBsJi4OmvWEGAwGzwYt56n8lNQr3N4LBJjpY_ml2XXoKphzjA1JNz28U946CSIB8_zUVLE2ECObXvZOxWJLQJvFp0v36lLvoTS9HMKzIBnJFyLXEGRCLbQ5OU9Rf7-qBZVNQQdSSQPEbpz8RlDmxYanvsEuT9j9bGYZxuLmNZPTquve17QPpNwPJQ4Rolzr5jqPy7beqY9pY3PI6xqRsmS0gjDYPNDROYxrp3T8dhaTJaDB2MyI8lWHiLmEuIsIDTMTtA-yaeImcrRJEF07E6NT3RNJdFrVw8g-n-1CvpNDdCWyAd9rQoTxOq4nMQ2W6DYdVHhTm1iNLk27naJQlfYUw0U-SbSdex_VFYisGhu8AC09ULTpnK0EHLJMi4j_y_eqfXogsaZmSCYMWmLddk6E4k7GONw5_h1Amb_klw7EZ3QBsdryNL-qhwQJNpDQJMkHW0T5rjQGOztqECRbUTP9k0jSLqmbbhjg6DsRp08fdUfxrRyNEDmJytPTPAnymfJWPBsRLrdJjx2Q_x5SzUWVBbJUBJ6Atc37keqcH2jfIm1aB_hDBA1HN-oNaBoN5_RaHjtRlJkdP-VVf_AM-cBSqVdnOAb4gSR7oL414gMpAN3HK28XO_glLSSFiVK2eb8dxr3YjSxEgdeYtNvJW3AIzPhskBjSZJAtMCI8byqt2HNStTj-Wme4-rKP8Adlt3VlQa9jy0GMwAbOlrAXsDG63auBg5XsuMXWLGkAjMTIBvIjTtpr2QQxpawOdYA36yTZsHXf0KWJY177G0az0OVo9lBh6HzJ1JEmLWLYM3mTb0WKWiqTDf8RJA31Itb93QFStUebE3vA2tIudNAiqtPK0Wv43M-PgSntwZZckSQ0mbEEySPS891KjWwODEinlc7vI16yDHgVN82ebr3GmnqmYhtxAsYPW1pJHimMoHNqBLfyPv2RqtDsY6qLkNOu9j0CkYYyibG0-uvsi6WBPLJPaRqdVHZjmE3BJIkyem-l_uqqxWyHFVznMaTa-23tCSjxI5jl0NxobESElVIdlFUoiS9gM33vYdeliuOok85MiLibzJEdv7qf8AjaLG3dJymdTNzMwDOykbxI8uRgYYsTzC5mw2dPVPiTQ35RaWkZoLdDMidQJ7_dSUCA4OcPpaSBrc6X8wVLRxRc0O-Y8ukmLwZ89QT7KOjROWYzj-YwRpePSD5pcBNe0S4ahmBnlygzJubRbuisRmY3TUAA9Y0PhCrK9cNBs6821MTpHRFYeq1zdc0EEk7EONu_8A6pUhJoKwznOIE2tP538kziNYOLqmawu1lyZ3JOl4U2Owlg3W0EjSZJsDvtCjqsa5gltwB2i99ew90qSLtUc4RjXtcC64uG5SYDZABI66IriGIiSCDB0zAAm94JsdkNh8NlMBsBsab5mmw2N59D3TOJUcj4BN5aYEk3Iv2sPRTpsba6JqIcLOMNcQLHXX-YeA91BiK1Q2bIAi8XIgx9lZYfCC15mDFrWsR37dj5DBkGDeCJPeXNERpcad_NNUyPYIWy5ocBtvrzbRaUQMOSTBbEGzpAgRN-tz6qww9BjGvMgwWgWFpkkzqIH3CfUoEsywIuNQ2BmEEmYkwRcCZGuqpIborqeHy1MgybS2c1yYE2sFYUmsBOQAkzIDcubXSLiTIkzqOsLjMMC1pYTsIMkwGyD42O403sFKDlljtoymTMWOpgASIUtpAnWhBxZTblGtQASQdiY031_coTCYitmLnhticw0jUFoiR9QHkeys2E0-Y2BDpE_023Nzrfuh61EB-bJJIEi0GYEg-N_MIr2DYK2p8xrw0hhdlkti-UkBjfKZ8W9ULhMA4Tcn5n0OzEx_SYPg6R26p9R784Y0RBEvEQbFwMR-Ft9TKJqhzTIIBc2wmRILWx-H_wBgiyKsN4K5zQ0EEGNPHp9_ArVuAfSLH2BF_A7jv-ayeCqTXaHOEkiDfQi1o6Rpotm3AZGy4za35fvupad8kdmOScaZWcKcKeHZTY0crTm7uLj8wj_Vm9F5_wDFuMLa51dlaDbRp2noYHhcrdYdjmGqz8Qew9nNGYeTsxj8SwlTBtqV3vObK1zQIu08uacx1JmDM29rjXJtkz_BJEPDwTRJpuLi4BrTlMiXtLwwHUEBnqeism0jHM0NDZBMzzWs2ddXtjS3ZFYXDxTAZyhsNBzWFoBkm5mwH4hpdV9fGNiMpsSSHWIBEEi1_wC48EOV2kYuNdnMNAdB3II3kuILGtAubnWwsbovh2KYDA-ocxmTLbACYyg3vYGfFVVDGEvykEHU8vMeURBPc-yTazsriQNcsTciY06kWjvKVCUqLipUa5sgkw7e5JsNdZsbzuhqr3HXm0-qfPMd94Chw1TKdSWS6AXCZaOYARp13kA21TsSczoNosZuDeRy_aPeydByslq3yPDjYwSJv0I8IFtE4VuYZQOkxsBYW6GP9y7REuIdMERY6xBBG4iCZ6dlDin5A05YJ1MANFxlB233HfVKh-tlm2tBGbKSMsAkxzCBfY23-yFxGHY7mn6uVonUPJGVoBH4STOg7oaniKpBcQyGBxMucQDIAsLETAtAUhruIaHiSCC2AJcIGoOguDI6qlQ60RVJBgbQLzMgQdXdZXFBmpi0u9UlN_sm4mfbWkgO5xANmZRMW10vOiJZRaXAse6HAh1iQCPFR4ZoYBMRAjpzdTq7Uo7htP8Ay3EEOcZGVsQCSO8Da110PQIe1kti5sXeBAmCR4tvvCdg8Tlz5zEgmDewNz1sJ208VyiBSmZvBE6yQDA8J9k12IDS7llpu2DcjKTv4_ZZ2HRzF_5wIdLJ-k3BgEZTfUG3a6Pq0Qxma82t3kiJm48kC9wABbJfdxGoaOUmOhGu_soP4i-S-YWykeQB6wZt38y6FTLOjUkEuIAJLiXE9pubD-a3ZSYnFNc0gxcNkgxvHXUkjzhZ2vjQWljj4xHbTrfRTCs5rLgRnGQi4uAACOs6dFNCo0H8Q6NS3aNpLg4GTrroocRxMS55E5SCYGkh0eMF8ye5UIrUyzKTMxlMRIcSb9_1SY1mUtcRliIEm0Bod9vM9kqAtKNWz3aAHsMxIjMJ1tJi35qatRYIfYwJMG5AcXXbaf5B_wAqlp4gZizNdpO5j6gPYkW7KwwWMyWgZHGddHE-rYnyhJ6YR2SUcT_LYAOIJFyS6fyaPJy7UxRJLCIzG4t4mD5-kaIPFVMkOzNyy52aDMPLWtgDTS_n1lT4uqC36rH2jxiNCetgmw41Y-rU-Ww5TuAf_tEaXEgI7DY0ODTMtuL9YLj6Qz1WfZVzUvmA2nXrEaO_1E-RUmC_7QLXSHOc4AWkNY06dbu9AprYJbLc4klhqEixOhBBJa4zINtegNrof5stkzJMayMpiB4R038VFVPI4TyuloG85eXXex9e6BqtcA8Ndmy5XA5hEPDRN9RLX9PdOLtjfRasrS2BEgSPD6S62hLbye3RNJAJaTJsQdYyi09dSfXsg24k5Q0vGa8gkcrQXb6nlc09OZMdieQE6PIA7i7jpoQGtk7z2VOImq2HYTH02_LcSAZvJDQGxqf6SdT6rQ0viVpbBfE6CdBMW7xC8_OJbmLQB9PNeYBuRE2mRfrfZdLntPLlsTmJnMXG8Hz27I4Djlkujd42s0UXV6ZLi112ZvqEx5zIPp0VbijSY_5oF3kEgOkB0hvMNLaW_pICqcLxJwIYZh4IEw63NlOmogfuU3ilc1BlmGtgwDlIyyQZ8Mtu8qeNaNJZLRNX4lDG02kANaS5hgWaTeDBG1-pVQGuc6SAQ_6yD9Lb5XTvfKI8EY6oHOeWy0kANzHlu0NHKIgC0Rop6mHYG0wYEDQAS5zSQOUTGp7cxuqMdvsbhGB0kEEyGh0AzfKZPWANOiWGoiziC4XdY3Mbi_ZpgW1XHw1xDNZJyl2UXuJyj8bkQahMkAuIkdeuXTuLeMJDsRpNIBgwMwO5mxFovJkz2Oi6zCsJEGXANBANpuLdiO9rdlE2sMwgkktzAGwAi0nrabdVHisWG5XGS02NpPNy3jUi_t0S_RSSJajQZh0FpLLSDawnYzlPkPBLFNFjdxkzlIk5oEQdhDhfxQeNc6RuMrbyb2M73N9NUQMTLGvJMubBLhYAtAEknu4wP1Todexz8rJaIDIbtYklwykbCcx8inYfGgxmbnnlzgRliHa2GhFj1Q2IxhI-WQSQYbAFxMwZ_l5iZuN03DUpkGN8sA7iI117pj5UwmtiC0kNAIGh-WT7_uEkO_H1NBAgAa3sIv3SSoNHHMbzBzGk6Ha4Ebbd5m_mh6LJpQ0AZjlP9JdEAx4uHofNJLSWiFsiFJ7ySAIJsSZOkHXQcrLRt3Ub6o-Y0WsHAMvEz1j8QtpfxXEkkgJqABht5abEyMxIPK5ocek6x1VVUphjW1JhscogEEiT9O2pMfhSSTXZd6CKNAGkHi5hh3EauLtf6Q23WfFFtpyDJOS48I6i8gAEC0hJJS1sVDMSwuy5byLjTlu0EWtIB9VBQxGdwYdDlMa2HMMosG3PXYLqSETJJMOoOyNaSS5zjO0QQHRfcTqdY6IvCvlxp1N32Jk6ZYBgSQQupLKX5BE5xDN_2m3uSAd7ktBPfK7wLuyaWPNMgwXS4-r782vRJJU9JDl2P4c5wwriYJa4EOAvrEQd7yu0mubTDZu36jvDmhzrxeBfTeEklLQD3WY1si5a7TQwbjpEkJjMMPlnUF2UE6gDM13mQRZcSVJUwB8LSDw503PINcoMy8wI1IN4vbwBFek0CZvMXvBBdlPp9gkktPYpPQLguFkVTUM3cSeYRImxHQCAANwfMing5c4mSTLTNozbyN_1SSRJgcqVQ1shskDJNhckAx0BN_JFGmXmCYENLT0kQRA62SSSkSmSGCHhsw4Et2MWGux012CixVfKW7yz2BBt0MLqSVFy6BszajnEtImCb9Iba2wI16adJqmGiDJOYFzR0sAJ2nmSSRQUqA6jHtkRz5ckTYkujy2vOkqanEeWUxsYDv8AVr038UkkLopIc4hgFszTAeCdiRHmDeR-abiH5DmqZiRo5sAZTEDKZ_D0v4JJJR7BnMTXA5gNM7SdzF2m3Q_ayF4G5xqSXAtiAMoEONtddj6pJJ_5F7sIc6l_M8tdYEQTp3ASSSVUM__Z",
+                  "mime_type": "image/jpeg"
+                },
+                "file_data": null,
+                "thought_signature": null,
+                "code_execution_result": null,
+                "executable_code": null,
+                "function_call": null,
+                "function_response": null,
+                "text": null
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": {
+            "parts": [
+              {
+                "video_metadata": null,
+                "thought": null,
+                "inline_data": null,
+                "file_data": null,
+                "thought_signature": null,
+                "code_execution_result": null,
+                "executable_code": null,
+                "function_call": null,
+                "function_response": null,
+                "text": "是的，这是一只雄性狮子，有着浓密的鬃毛。它正站在一片草地上，背景看起来像是非洲的稀树草原。"
+              }
+            ],
+            "role": null
+          },
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          },
+          "creation_timestamp": 1756967862.842569
+        },
+        {
+          "invocation_id": "e-356f8f3d-0da2-40ed-b816-43f73a891521",
+          "user_content": {
+            "parts": [
+              {
+                "video_metadata": null,
+                "thought": null,
+                "inline_data": null,
+                "file_data": null,
+                "thought_signature": null,
+                "code_execution_result": null,
+                "executable_code": null,
+                "function_call": null,
+                "function_response": null,
+                "text": "他是一只有特色的狮子"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": {
+            "parts": [
+              {
+                "video_metadata": null,
+                "thought": null,
+                "inline_data": null,
+                "file_data": null,
+                "thought_signature": null,
+                "code_execution_result": null,
+                "executable_code": null,
+                "function_call": null,
+                "function_response": null,
+                "text": "是的，这只狮子确实很有特色。它的鬃毛非常浓密且颜色深沉，这在雄性狮子中是威严和力量的象征。它侧脸看向远方，姿态显得非常警惕和专注，展现了野生动物特有的魅力和生存智慧。整体构图也很棒，将狮子的英武与广阔的草原背景完美结合。"
+              }
+            ],
+            "role": null
+          },
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          },
+          "creation_timestamp": 1756967996.765642
+        },
+        {
+          "invocation_id": "e-40c22875-41a9-4bfe-9a68-68c9ceca8df0",
+          "user_content": {
+            "parts": [
+              {
+                "video_metadata": null,
+                "thought": null,
+                "inline_data": null,
+                "file_data": null,
+                "thought_signature": null,
+                "code_execution_result": null,
+                "executable_code": null,
+                "function_call": null,
+                "function_response": null,
+                "text": "狮子的名字叫做line"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": {
+            "parts": [
+              {
+                "video_metadata": null,
+                "thought": null,
+                "inline_data": null,
+                "file_data": null,
+                "thought_signature": null,
+                "code_execution_result": null,
+                "executable_code": null,
+                "function_call": null,
+                "function_response": null,
+                "text": "“Line”作为一个名字并不常见，通常指的是线条或队列。在英语中，\"lion\" 和 \"Line\" 的发音相似，所以可能因此产生了这种联想。如果这只狮子的名字确实是“Line”，那它确实是一个独特且有趣的名字。"
+              }
+            ],
+            "role": null
+          },
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          },
+          "creation_timestamp": 1756968094.18475
+        }
+      ],
+      "session_input": {
+        "app_name": "chat-agent",
+        "user_id": "user",
+        "state": {}
+      },
+      "creation_timestamp": 1756968920.25125
+    },
+    {
+      "eval_id": "casea21b24",
+      "conversation": [
+        {
+          "invocation_id": "e-8e178bf1-8cdc-40ba-9549-e70b03a803e4",
+          "user_content": {
+            "parts": [
+              {
+                "video_metadata": null,
+                "thought": null,
+                "inline_data": null,
+                "file_data": null,
+                "thought_signature": null,
+                "code_execution_result": null,
+                "executable_code": null,
+                "function_call": null,
+                "function_response": null,
+                "text": "天为什么是蓝色的？"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": {
+            "parts": [
+              {
+                "video_metadata": null,
+                "thought": null,
+                "inline_data": null,
+                "file_data": null,
+                "thought_signature": null,
+                "code_execution_result": null,
+                "executable_code": null,
+                "function_call": null,
+                "function_response": null,
+                "text": "天空之所以呈现蓝色，是因为瑞利散射。当太阳光穿过地球大气层时，光线会与大气中的分子和微小颗粒发生相互作用。蓝光的波长较短，更容易被大气中的氮气和氧气分子散射到各个方向，因此我们看到的天空大部分是蓝色的。其他颜色的光，例如红光和黄光，波长较长，散射程度较小，因此会直接穿过大气层。\n\n正午时分，太阳光直射，穿过的大气层较薄，蓝光散射均匀，因此天空呈现均匀的蓝色。日出和日落时，太阳光斜射，穿过的大气层较厚，蓝光被散射掉大部分，而红光和黄光等波长较长的光线则能穿透大气层到达我们的眼睛，因此天空呈现红色、橙色或黄色。"
+              }
+            ],
+            "role": null
+          },
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          },
+          "creation_timestamp": 1756969000.705256
+        }
+      ],
+      "session_input": {
+        "app_name": "chat-agent",
+        "user_id": "user",
+        "state": {}
+      },
+      "creation_timestamp": 1756969055.332119
+    }
+  ],
+  "creation_timestamp": 1756968908.1129951
+}

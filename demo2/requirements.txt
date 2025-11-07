@@ -1,0 +1,6 @@
+google-adk==1.13.0
+uvicorn==0.35.0
+fastapi==0.116.1
+protobuf==6.31.1
+google-cloud-aiplatform==1.111.0
+python-dotenv==1.1.1
