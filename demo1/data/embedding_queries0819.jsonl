@@ -1,0 +1,642 @@
+{"_id": "query1", "text": "金融分析师，精通Python量化策略开发"}
+{"_id": "query2", "text": "Financial analyst, expert in Python quantitative strategy development"}
+{"_id": "query3", "text": "跨境电商运营，熟悉亚马逊SEO优化"}
+{"_id": "query4", "text": "Cross-border e-commerce operator, proficient in Amazon SEO optimization"}
+{"_id": "query5", "text": "建筑设计师，擅长BIM建模"}
+{"_id": "query6", "text": "Architect, skilled in BIM modeling"}
+{"_id": "query7", "text": "医疗设备销售，掌握DICOM标准"}
+{"_id": "query8", "text": "Medical device sales, knowledgeable in DICOM standards"}
+{"_id": "query9", "text": "工业设计师，精通SolidWorks"}
+{"_id": "query10", "text": "Industrial designer, expert in SolidWorks"}
+{"_id": "query11", "text": "心理咨询师，熟悉CBT疗法"}
+{"_id": "query12", "text": "Psychologist, proficient in CBT therapy"}
+{"_id": "query13", "text": "农业技术员，掌握智慧灌溉系统"}
+{"_id": "query14", "text": "Agricultural technician, skilled in smart irrigation systems"}
+{"_id": "query15", "text": "影视后期，精通DaVinci Resolve调色"}
+{"_id": "query16", "text": "Video editor, expert in DaVinci Resolve color grading"}
+{"_id": "query17", "text": "物流经理，熟悉WMS系统实施"}
+{"_id": "query18", "text": "Logistics manager, knowledgeable in WMS system implementation"}
+{"_id": "query19", "text": "电竞教练，擅长数据分析"}
+{"_id": "query20", "text": "Esports coach, skilled in data analysis"}
+{"_id": "query21", "text": "环境工程师，掌握GIS应用"}
+{"_id": "query22", "text": "Environmental engineer, proficient in GIS applications"}
+{"_id": "query23", "text": "烘焙师，精通法式甜点制作"}
+{"_id": "query24", "text": "Pastry chef, expert in French dessert making"}
+{"_id": "query25", "text": "汽车工程师，熟悉新能源电池技术"}
+{"_id": "query26", "text": "Automotive engineer, knowledgeable in new energy battery technology"}
+{"_id": "query27", "text": "宠物美容师，掌握国际标准剪裁"}
+{"_id": "query28", "text": "Pet groomer, skilled in international standard grooming"}
+{"_id": "query29", "text": "区块链开发，精通Solidity"}
+{"_id": "query30", "text": "Blockchain developer, expert in Solidity"}
+{"_id": "query31", "text": "空乘人员，熟悉多国语言服务"}
+{"_id": "query32", "text": "Flight attendant, proficient in multilingual services"}
+{"_id": "query33", "text": "珠宝鉴定师，掌握GIA标准"}
+{"_id": "query34", "text": "Gemologist, knowledgeable in GIA standards"}
+{"_id": "query35", "text": "AI产品经理，熟悉Agent工作流设计"}
+{"_id": "query36", "text": "AI product manager, skilled in Agent workflow design"}
+{"_id": "query37", "text": "潜水教练，精通PADI课程体系"}
+{"_id": "query38", "text": "Diving instructor, expert in PADI course system"}
+{"_id": "query39", "text": "非遗传承人，擅长传统工艺创新"}
+{"_id": "query40", "text": "Intangible cultural heritage inheritor, skilled in traditional craft innovation"}
+{"_id": "query41", "text": "Java开发工程师，精通Spring Cloud微服务架构"}
+{"_id": "query42", "text": "Java developer, expert in Spring Cloud microservices architecture"}
+{"_id": "query43", "text": "前端开发，熟练掌握React+TypeScript"}
+{"_id": "query44", "text": "Frontend developer, proficient in React+TypeScript"}
+{"_id": "query45", "text": "Python工程师，熟悉Django和FastAPI框架"}
+{"_id": "query46", "text": "Python engineer, skilled in Django and FastAPI frameworks"}
+{"_id": "query47", "text": "大数据开发，精通Hadoop和Spark生态"}
+{"_id": "query48", "text": "Big data developer, expert in Hadoop and Spark ecosystem"}
+{"_id": "query49", "text": "区块链开发，掌握Solidity和Hyperledger Fabric"}
+{"_id": "query50", "text": "Blockchain developer, proficient in Solidity and Hyperledger Fabric"}
+{"_id": "query51", "text": "DevOps工程师，熟悉Kubernetes和Docker"}
+{"_id": "query52", "text": "DevOps engineer, skilled in Kubernetes and Docker"}
+{"_id": "query53", "text": "机器学习工程师，精通TensorFlow/PyTorch"}
+{"_id": "query54", "text": "Machine learning engineer, expert in TensorFlow/PyTorch"}
+{"_id": "query55", "text": "全栈开发，掌握MERN技术栈"}
+{"_id": "query56", "text": "Full-stack developer, proficient in MERN stack"}
+{"_id": "query57", "text": "C++开发，熟悉Qt和Boost库"}
+{"_id": "query58", "text": "C++ developer, skilled in Qt and Boost libraries"}
+{"_id": "query59", "text": "云计算架构师，精通AWS和阿里云"}
+{"_id": "query60", "text": "Cloud architect, expert in AWS and Alibaba Cloud"}
+{"_id": "query61", "text": "移动开发，熟练掌握Flutter跨平台技术"}
+{"_id": "query62", "text": "Mobile developer, proficient in Flutter cross-platform technology"}
+{"_id": "query63", "text": "数据库管理员，精通MySQL和MongoDB优化"}
+{"_id": "query64", "text": "DBA, expert in MySQL and MongoDB optimization"}
+{"_id": "query65", "text": "测试开发，熟悉Selenium和JMeter"}
+{"_id": "query66", "text": "Test engineer, skilled in Selenium and JMeter"}
+{"_id": "query67", "text": "网络安全工程师，掌握渗透测试技术"}
+{"_id": "query68", "text": "Cybersecurity engineer, proficient in penetration testing"}
+{"_id": "query69", "text": "嵌入式开发，熟悉RT-Thread和FreeRTOS"}
+{"_id": "query70", "text": "Embedded developer, skilled in RT-Thread and FreeRTOS"}
+{"_id": "query71", "text": "游戏开发，精通Unity3D引擎"}
+{"_id": "query72", "text": "Game developer, expert in Unity3D engine"}
+{"_id": "query73", "text": "数据科学家，掌握Pandas和NumPy"}
+{"_id": "query74", "text": "Data scientist, proficient in Pandas and NumPy"}
+{"_id": "query75", "text": "自然语言处理工程师，熟悉BERT和GPT模型"}
+{"_id": "query76", "text": "NLP engineer, skilled in BERT and GPT models"}
+{"_id": "query77", "text": "计算机视觉工程师，精通OpenCV"}
+{"_id": "query78", "text": "Computer vision engineer, expert in OpenCV"}
+{"_id": "query79", "text": "物联网开发，熟悉MQTT和CoAP协议"}
+{"_id": "query80", "text": "IoT developer, proficient in MQTT and CoAP protocols"}
+{"_id": "query81", "text": "云原生开发，掌握Service Mesh技术"}
+{"_id": "query82", "text": "Cloud native developer, skilled in Service Mesh technology"}
+{"_id": "query83", "text": "大数据分析，熟悉Hive和HBase"}
+{"_id": "query84", "text": "Big data analyst, proficient in Hive and HBase"}
+{"_id": "query85", "text": "自动化测试，精通Robot Framework"}
+{"_id": "query86", "text": "Automation test engineer, expert in Robot Framework"}
+{"_id": "query87", "text": "系统架构师，掌握DDD设计方法"}
+{"_id": "query88", "text": "System architect, skilled in DDD design methodology"}
+{"_id": "query89", "text": "Golang开发，熟悉Gin和Beego框架"}
+{"_id": "query90", "text": "Golang developer, proficient in Gin and Beego frameworks"}
+{"_id": "query91", "text": "音视频开发，精通FFmpeg和WebRTC"}
+{"_id": "query92", "text": "Audio/video developer, expert in FFmpeg and WebRTC"}
+{"_id": "query93", "text": "低代码开发，熟悉OutSystems平台"}
+{"_id": "query94", "text": "Low-code developer, skilled in OutSystems platform"}
+{"_id": "query95", "text": "Rust开发，掌握Tokio异步运行时"}
+{"_id": "query96", "text": "Rust developer, proficient in Tokio async runtime"}
+{"_id": "query97", "text": "ERP开发，熟悉SAP ABAP编程"}
+{"_id": "query98", "text": "ERP developer, skilled in SAP ABAP programming"}
+{"_id": "query99", "text": "BI开发，精通Power BI和Tableau"}
+{"_id": "query100", "text": "BI developer, expert in Power BI and Tableau"}
+{"_id": "query101", "text": "消息中间件，掌握Kafka和RabbitMQ"}
+{"_id": "query102", "text": "Middleware engineer, proficient in Kafka and RabbitMQ"}
+{"_id": "query103", "text": "搜索引擎开发，熟悉Elasticsearch"}
+{"_id": "query104", "text": "Search engine developer, skilled in Elasticsearch"}
+{"_id": "query105", "text": "AIOps工程师，掌握智能运维技术"}
+{"_id": "query106", "text": "AIOps engineer, expert in intelligent operations technology"}
+{"_id": "query107", "text": "Serverless开发，熟悉AWS Lambda"}
+{"_id": "query108", "text": "Serverless developer, proficient in AWS Lambda"}
+{"_id": "query109", "text": "边缘计算工程师，掌握KubeEdge"}
+{"_id": "query110", "text": "Edge computing engineer, skilled in KubeEdge"}
+{"_id": "query111", "text": "量子计算研究员，熟悉Qiskit框架"}
+{"_id": "query112", "text": "Quantum computing researcher, proficient in Qiskit framework"}
+{"_id": "query113", "text": "元宇宙开发，掌握Unity3D和WebXR"}
+{"_id": "query114", "text": "Metaverse developer, expert in Unity3D and WebXR"}
+{"_id": "query115", "text": "FPGA开发，熟悉Verilog和VHDL"}
+{"_id": "query116", "text": "FPGA developer, skilled in Verilog and VHDL"}
+{"_id": "query117", "text": "分布式存储，精通Ceph架构"}
+{"_id": "query118", "text": "Distributed storage engineer, expert in Ceph architecture"}
+{"_id": "query119", "text": "推荐系统工程师，掌握协同过滤算法"}
+{"_id": "query120", "text": "Recommendation system engineer, proficient in collaborative filtering algorithms"}
+{"_id": "query121", "text": "云安全工程师，熟悉零信任架构"}
+{"_id": "query122", "text": "Cloud security engineer, skilled in zero trust architecture"}
+{"_id": "query123", "text": "自动化运维，精通Ansible和Terraform"}
+{"_id": "query124", "text": "Automation operations engineer, expert in Ansible and Terraform"}
+{"_id": "query125", "text": "数字孪生开发，掌握Unity3D和IoT集成"}
+{"_id": "query126", "text": "Digital twin developer, proficient in Unity3D and IoT integration"}
+{"_id": "query127", "text": "Web3开发，熟悉Solidity和Web3.js"}
+{"_id": "query128", "text": "Web3 developer, skilled in Solidity and Web3.js"}
+{"_id": "query129", "text": "编译器开发，掌握LLVM架构"}
+{"_id": "query130", "text": "Compiler developer, expert in LLVM architecture"}
+{"_id": "query131", "text": "自动驾驶软件工程师，熟悉ROS系统"}
+{"_id": "query132", "text": "Autonomous driving software engineer, proficient in ROS system"}
+{"_id": "query133", "text": "AI编译器工程师，掌握TVM框架"}
+{"_id": "query134", "text": "AI compiler engineer, skilled in TVM framework"}
+{"_id": "query135", "text": "混沌工程专家，熟悉Chaos Mesh"}
+{"_id": "query136", "text": "Chaos engineering expert, proficient in Chaos Mesh"}
+{"_id": "query137", "text": "隐私计算工程师，掌握联邦学习技术"}
+{"_id": "query138", "text": "Privacy computing engineer, expert in federated learning technology"}
+{"_id": "query139", "text": "数据库内核开发，熟悉MySQL源码优化"}
+{"_id": "query140", "text": "Database kernel developer, skilled in MySQL source code optimization"}
+{"_id": "query141", "text": "酒店经理，精通收益管理和客户体验优化"}
+{"_id": "query142", "text": "Hotel manager, expert in revenue management and guest experience optimization"}
+{"_id": "query143", "text": "金融分析师，熟悉CFA体系和Python量化分析"}
+{"_id": "query144", "text": "Financial analyst, proficient in CFA system and Python quantitative analysis"}
+{"_id": "query145", "text": "外科医生，掌握微创手术和达芬奇机器人操作"}
+{"_id": "query146", "text": "Surgeon, skilled in minimally invasive surgery and da Vinci robotic system"}
+{"_id": "query147", "text": "网络安全工程师，精通渗透测试和SOC运营"}
+{"_id": "query148", "text": "Cybersecurity engineer, expert in penetration testing and SOC operations"}
+{"_id": "query149", "text": "奢侈品销售顾问，熟悉CRM系统和VIP客户管理"}
+{"_id": "query150", "text": "Luxury sales consultant, proficient in CRM systems and VIP client management"}
+{"_id": "query151", "text": "投资银行家，掌握M&A交易全流程"}
+{"_id": "query152", "text": "Investment banker, skilled in end-to-end M&A transactions"}
+{"_id": "query153", "text": "放射科医师，熟悉CT/MRI影像诊断"}
+{"_id": "query154", "text": "Radiologist, proficient in CT/MRI diagnostic imaging"}
+{"_id": "query155", "text": "云计算架构师，精通AWS和Azure解决方案"}
+{"_id": "query156", "text": "Cloud architect, expert in AWS and Azure solutions"}
+{"_id": "query157", "text": "米其林餐厅厨师长，擅长分子料理技术"}
+{"_id": "query158", "text": "Michelin chef, skilled in molecular gastronomy techniques"}
+{"_id": "query159", "text": "风险管理师，熟悉FRM和Basel协议"}
+{"_id": "query160", "text": "Risk manager, proficient in FRM and Basel Accords"}
+{"_id": "query161", "text": "药剂师，掌握临床用药指导和药物相互作用"}
+{"_id": "query162", "text": "Pharmacist, skilled in clinical medication guidance and drug interactions"}
+{"_id": "query163", "text": "区块链开发工程师，精通Solidity和DeFi协议"}
+{"_id": "query164", "text": "Blockchain developer, expert in Solidity and DeFi protocols"}
+{"_id": "query165", "text": "航空乘务长，熟悉国际航线服务标准"}
+{"_id": "query166", "text": "Chief flight attendant, proficient in international flight service standards"}
+{"_id": "query167", "text": "私募基金经理，掌握另类投资策略"}
+{"_id": "query168", "text": "Private fund manager, skilled in alternative investment strategies"}
+{"_id": "query169", "text": "牙科种植专家，熟悉数字化种植技术"}
+{"_id": "query170", "text": "Dental implant specialist, proficient in digital implantology"}
+{"_id": "query171", "text": "大数据工程师，精通Hadoop和Spark生态"}
+{"_id": "query172", "text": "Big data engineer, expert in Hadoop and Spark ecosystem"}
+{"_id": "query173", "text": "会展策划经理，熟悉大型活动项目管理"}
+{"_id": "query174", "text": "Event planning manager, skilled in large-scale event project management"}
+{"_id": "query175", "text": "精算师，掌握寿险产品定价模型"}
+{"_id": "query176", "text": "Actuary, proficient in life insurance pricing models"}
+{"_id": "query177", "text": "ICU护士，熟悉危重症监护技术"}
+{"_id": "query178", "text": "ICU nurse, skilled in critical care techniques"}
+{"_id": "query179", "text": "DevOps工程师，精通Kubernetes和CI/CD流水线"}
+{"_id": "query180", "text": "DevOps engineer, expert in Kubernetes and CI/CD pipelines"}
+{"_id": "query181", "text": "高端家政管家，熟悉豪宅管理规范"}
+{"_id": "query182", "text": "Luxury house manager, proficient in high-end residence standards"}
+{"_id": "query183", "text": "证券分析师，擅长行业研究和估值建模"}
+{"_id": "query184", "text": "Securities analyst, skilled in industry research and valuation modeling"}
+{"_id": "query185", "text": "中医师，掌握针灸和方剂配伍"}
+{"_id": "query186", "text": "Traditional Chinese medicine practitioner, proficient in acupuncture and herbal formulations"}
+{"_id": "query187", "text": "AI产品经理，熟悉大模型应用场景"}
+{"_id": "query188", "text": "AI product manager, skilled in LLM application scenarios"}
+{"_id": "query189", "text": "游艇会客户经理，精通高端客户服务"}
+{"_id": "query190", "text": "Yacht club account manager, expert in luxury client services"}
+{"_id": "query191", "text": "金融科技专家，掌握支付系统架构"}
+{"_id": "query192", "text": "Fintech specialist, proficient in payment system architecture"}
+{"_id": "query193", "text": "康复治疗师，熟悉运动损伤康复方案"}
+{"_id": "query194", "text": "Rehabilitation therapist, skilled in sports injury recovery programs"}
+{"_id": "query195", "text": "网络爬虫工程师，精通反爬虫对抗技术"}
+{"_id": "query196", "text": "Web scraping engineer, expert in anti-scraping countermeasures"}
+{"_id": "query197", "text": "私人银行客户经理，熟悉家族信托规划"}
+{"_id": "query198", "text": "Private banking relationship manager, proficient in family trust planning"}
+{"_id": "query199", "text": "医疗AI研究员，掌握医学影像分析算法"}
+{"_id": "query200", "text": "Medical AI researcher, skilled in medical image analysis algorithms"}
+{"_id": "query201", "text": "纺织工程师，精通纺纱工艺优化"}
+{"_id": "query202", "text": "Textile engineer, expert in spinning process optimization"}
+{"_id": "query203", "text": "机械设计师，熟悉AutoCAD和SolidWorks"}
+{"_id": "query204", "text": "Mechanical designer, proficient in AutoCAD and SolidWorks"}
+{"_id": "query205", "text": "农业生产经理，掌握现代化种植技术"}
+{"_id": "query206", "text": "Agricultural production manager, skilled in modern cultivation techniques"}
+{"_id": "query207", "text": "建筑项目经理，精通BIM技术应用"}
+{"_id": "query208", "text": "Construction project manager, expert in BIM technology application"}
+{"_id": "query209", "text": "钢铁冶炼工程师，熟悉高炉操作规范"}
+{"_id": "query210", "text": "Steel metallurgical engineer, proficient in blast furnace operations"}
+{"_id": "query211", "text": "木工师傅，掌握传统榫卯工艺"}
+{"_id": "query212", "text": "Carpentry master, skilled in traditional mortise and tenon techniques"}
+{"_id": "query213", "text": "印刷技术员，熟悉四色印刷流程"}
+{"_id": "query214", "text": "Printing technician, proficient in four-color printing processes"}
+{"_id": "query215", "text": "陶瓷工艺师，精通釉料配方设计"}
+{"_id": "query216", "text": "Ceramic artisan, expert in glaze formulation design"}
+{"_id": "query217", "text": "造船工程师，掌握船舶结构设计"}
+{"_id": "query218", "text": "Shipbuilding engineer, skilled in ship structure design"}
+{"_id": "query219", "text": "食品加工师，熟悉HACCP体系"}
+{"_id": "query220", "text": "Food processing technician, proficient in HACCP system"}
+{"_id": "query221", "text": "采矿工程师，精通矿井安全评估"}
+{"_id": "query222", "text": "Mining engineer, expert in mine safety assessment"}
+{"_id": "query223", "text": "汽车维修技师，掌握电控系统诊断"}
+{"_id": "query224", "text": "Automotive repair technician, skilled in electronic control system diagnostics"}
+{"_id": "query225", "text": "家具设计师，熟悉实木加工工艺"}
+{"_id": "query226", "text": "Furniture designer, proficient in solid wood processing techniques"}
+{"_id": "query227", "text": "水泥生产主管，掌握新型干法工艺"}
+{"_id": "query228", "text": "Cement production supervisor, expert in new dry process technology"}
+{"_id": "query229", "text": "服装打版师，精通立体裁剪技术"}
+{"_id": "query230", "text": "Garment pattern maker, skilled in 3D draping techniques"}
+{"_id": "query231", "text": "锅炉工程师，熟悉热能效率优化"}
+{"_id": "query232", "text": "Boiler engineer, proficient in thermal efficiency optimization"}
+{"_id": "query233", "text": "酿酒师，掌握传统发酵工艺"}
+{"_id": "query234", "text": "Brewmaster, expert in traditional fermentation techniques"}
+{"_id": "query235", "text": "模具设计师，熟悉精密模具制造"}
+{"_id": "query236", "text": "Mold designer, skilled in precision mold manufacturing"}
+{"_id": "query237", "text": "电力调度员，精通电网运行管理"}
+{"_id": "query238", "text": "Power dispatcher, proficient in grid operation management"}
+{"_id": "query239", "text": "造纸工程师，掌握环保制浆技术"}
+{"_id": "query240", "text": "Papermaking engineer, expert in environmentally friendly pulping technology"}
+{"_id": "query241", "text": "元宇宙架构师，精通3D虚拟空间设计"}
+{"_id": "query242", "text": "Metaverse architect, expert in 3D virtual space design"}
+{"_id": "query243", "text": "区块链开发工程师，熟悉DeFi协议开发"}
+{"_id": "query244", "text": "Blockchain developer, proficient in DeFi protocol development"}
+{"_id": "query245", "text": "AI提示词工程师，掌握大模型优化技术"}
+{"_id": "query246", "text": "AI prompt engineer, skilled in LLM optimization techniques"}
+{"_id": "query247", "text": "碳足迹审计师，精通ISO 14064标准"}
+{"_id": "query248", "text": "Carbon footprint auditor, expert in ISO 14064 standards"}
+{"_id": "query249", "text": "基因编辑研究员，熟悉CRISPR-Cas9技术"}
+{"_id": "query250", "text": "Gene editing researcher, proficient in CRISPR-Cas9 technology"}
+{"_id": "query251", "text": "垂直农场运营经理，掌握水培种植系统"}
+{"_id": "query252", "text": "Vertical farm manager, skilled in hydroponic cultivation systems"}
+{"_id": "query253", "text": "量子计算研究员，熟悉Qiskit框架"}
+{"_id": "query254", "text": "Quantum computing researcher, proficient in Qiskit framework"}
+{"_id": "query255", "text": "脑机接口工程师，精通神经信号解码"}
+{"_id": "query256", "text": "Brain-computer interface engineer, expert in neural signal decoding"}
+{"_id": "query257", "text": "数字孪生技术专家，掌握IoT数据融合"}
+{"_id": "query258", "text": "Digital twin specialist, skilled in IoT data integration"}
+{"_id": "query259", "text": "隐私计算工程师，熟悉联邦学习算法"}
+{"_id": "query260", "text": "Privacy computing engineer, proficient in federated learning algorithms"}
+{"_id": "query261", "text": "AIGC内容生成师，掌握Stable Diffusion"}
+{"_id": "query262", "text": "AIGC content creator, expert in Stable Diffusion"}
+{"_id": "query263", "text": "Web3产品经理，熟悉DAO治理机制"}
+{"_id": "query264", "text": "Web3 product manager, skilled in DAO governance mechanisms"}
+{"_id": "query265", "text": "生物打印工程师，精通组织工程支架设计"}
+{"_id": "query266", "text": "Bioprinting engineer, proficient in tissue scaffold design"}
+{"_id": "query267", "text": "太空旅游规划师，掌握亚轨道飞行方案"}
+{"_id": "query268", "text": "Space tourism planner, expert in suborbital flight programs"}
+{"_id": "query269", "text": "虚拟偶像经纪人，熟悉数字人运营"}
+{"_id": "query270", "text": "Virtual idol agent, skilled in digital human management"}
+{"_id": "query271", "text": "智慧城市解决方案架构师，精通IoT平台"}
+{"_id": "query272", "text": "Smart city solution architect, proficient in IoT platforms"}
+{"_id": "query273", "text": "自动驾驶仿真工程师，掌握CARLA系统"}
+{"_id": "query274", "text": "Autonomous driving simulation engineer, expert in CARLA system"}
+{"_id": "query275", "text": "情感计算研究员，熟悉情绪识别算法"}
+{"_id": "query276", "text": "Affective computing researcher, skilled in emotion recognition algorithms"}
+{"_id": "query277", "text": "NFT策展人，精通数字藏品运营"}
+{"_id": "query278", "text": "NFT curator, proficient in digital collectibles operations"}
+{"_id": "query279", "text": "脑科学产品经理，掌握fMRI技术应用"}
+{"_id": "query280", "text": "Neuroscience product manager, expert in fMRI applications"}
+{"_id": "query281", "text": "无人机物流规划师，熟悉空域管理"}
+{"_id": "query282", "text": "Drone logistics planner, skilled in airspace management"}
+{"_id": "query283", "text": "合成生物学家，精通基因回路设计"}
+{"_id": "query284", "text": "Synthetic biologist, proficient in genetic circuit design"}
+{"_id": "query285", "text": "元宇宙经济设计师，掌握Tokenomics"}
+{"_id": "query286", "text": "Metaverse economist, expert in Tokenomics"}
+{"_id": "query287", "text": "AI伦理顾问，熟悉可解释AI框架"}
+{"_id": "query288", "text": "AI ethics consultant, skilled in explainable AI frameworks"}
+{"_id": "query289", "text": "氢能源工程师，精通燃料电池技术"}
+{"_id": "query290", "text": "Hydrogen energy engineer, proficient in fuel cell technology"}
+{"_id": "query291", "text": "脑机交互设计师，掌握神经反馈系统"}
+{"_id": "query292", "text": "Brain-computer interaction designer, expert in neurofeedback systems"}
+{"_id": "query293", "text": "量子加密研究员，熟悉QKD协议"}
+{"_id": "query294", "text": "Quantum cryptography researcher, skilled in QKD protocols"}
+{"_id": "query295", "text": "数字疗法开发师，精通临床验证流程"}
+{"_id": "query296", "text": "Digital therapeutics developer, proficient in clinical validation processes"}
+{"_id": "query297", "text": "智能材料科学家，掌握4D打印技术"}
+{"_id": "query298", "text": "Smart materials scientist, expert in 4D printing technology"}
+{"_id": "query299", "text": "元宇宙法律顾问，熟悉虚拟资产确权"}
+{"_id": "query300", "text": "Metaverse legal counsel, skilled in virtual asset rights confirmation"}
+{"_id": "query301", "text": "大客户经理，精通解决方案销售方法论"}
+{"_id": "query302", "text": "Key account manager, expert in solution selling methodology"}
+{"_id": "query303", "text": "跨境电商运营，熟悉亚马逊广告优化"}
+{"_id": "query304", "text": "Cross-border e-commerce operator, proficient in Amazon Ads optimization"}
+{"_id": "query305", "text": "医药代表，掌握合规学术推广"}
+{"_id": "query306", "text": "Pharmaceutical representative, skilled in compliant academic promotion"}
+{"_id": "query307", "text": "云服务销售总监，精通企业数字化转型方案"}
+{"_id": "query308", "text": "Cloud services sales director, expert in enterprise digital transformation solutions"}
+{"_id": "query309", "text": "渠道拓展经理，熟悉经销商体系搭建"}
+{"_id": "query310", "text": "Channel development manager, proficient in distributor system construction"}
+{"_id": "query311", "text": "奢侈品客户顾问，掌握高净值客户维护"}
+{"_id": "query312", "text": "Luxury client advisor, skilled in HNWI relationship management"}
+{"_id": "query313", "text": "商务谈判专家，熟悉国际合同条款"}
+{"_id": "query314", "text": "Business negotiation specialist, proficient in international contract terms"}
+{"_id": "query315", "text": "半导体设备销售，精通Fab厂采购流程"}
+{"_id": "query316", "text": "Semiconductor equipment sales, expert in fab procurement processes"}
+{"_id": "query317", "text": "SaaS产品售前顾问，掌握POC演示技巧"}
+{"_id": "query318", "text": "SaaS pre-sales consultant, skilled in POC demonstration techniques"}
+{"_id": "query319", "text": "汽车金融销售，熟悉融资租赁方案设计"}
+{"_id": "query320", "text": "Auto finance sales, proficient in leasing program design"}
+{"_id": "query321", "text": "政府关系经理，掌握招投标全流程"}
+{"_id": "query322", "text": "Government relations manager, expert in bidding processes"}
+{"_id": "query323", "text": "广告销售总监，熟悉程序化购买平台"}
+{"_id": "query324", "text": "Advertising sales director, skilled in programmatic buying platforms"}
+{"_id": "query325", "text": "工业品销售工程师，精通技术方案讲解"}
+{"_id": "query326", "text": "Industrial sales engineer, proficient in technical solution presentation"}
+{"_id": "query327", "text": "会员运营经理，掌握私域流量转化"}
+{"_id": "query328", "text": "Membership manager, expert in private domain traffic conversion"}
+{"_id": "query329", "text": "国际商务拓展，熟悉跨境支付结算"}
+{"_id": "query330", "text": "International business development, skilled in cross-border payment settlement"}
+{"_id": "query331", "text": "医疗器械销售，精通医院准入流程"}
+{"_id": "query332", "text": "Medical device sales, proficient in hospital access procedures"}
+{"_id": "query333", "text": "企业采购顾问，掌握供应链成本优化"}
+{"_id": "query334", "text": "Corporate procurement consultant, expert in supply chain cost optimization"}
+{"_id": "query335", "text": "红酒进口商销售，熟悉WSET品鉴体系"}
+{"_id": "query336", "text": "Wine importer sales, skilled in WSET tasting system"}
+{"_id": "query337", "text": "会展销售经理，精通大型活动招商"}
+{"_id": "query338", "text": "Exhibition sales manager, proficient in major event sponsorship"}
+{"_id": "query339", "text": "智能硬件渠道经理，熟悉新零售布局"}
+{"_id": "query340", "text": "Smart hardware channel manager, expert in new retail distribution"}
+{"_id": "query341", "text": "英语良好，能够流利读写说"}
+{"_id": "query342", "text": "Good at English, able to read, write and speak fluently"}
+{"_id": "query343", "text": "Java后端开发，精通高并发微服务架构"}
+{"_id": "query344", "text": "前端工程师，熟悉React和性能优化"}
+{"_id": "query345", "text": "AI算法工程师，专注NLP和知识图谱"}
+{"_id": "query346", "text": "数据分析师，精通SQL和Tableau可视化"}
+{"_id": "query347", "text": "SRE运维工程师，熟悉K8s和自动化运维"}
+{"_id": "query348", "text": "测试开发，有自动化测试框架搭建经验"}
+{"_id": "query349", "text": "SaaS产品经理，有从0到1产品经验"}
+{"_id": "query350", "text": "UI/UX设计师，能构建完整设计系统"}
+{"_id": "query351", "text": "新媒体运营，擅长抖音账号内容策划"}
+{"_id": "query352", "text": "大客户销售总监，具备团队管理能力"}
+{"_id": "query353", "text": "市场营销策划，能独立策划大型活动"}
+{"_id": "query354", "text": "人力资源HRBP，支持过大型研发团队"}
+{"_id": "query355", "text": "财务总监，有上市公司财务管理经验"}
+{"_id": "query356", "text": "法务顾问，专注于合同法与公司法"}
+{"_id": "query357", "text": "供应链经理，精通成本控制与仓储管理"}
+{"_id": "query358", "text": "优秀的沟通协调能力，有项目管理经验"}
+{"_id": "query359", "text": "建筑结构工程师，能熟练使用SAP2000"}
+{"_id": "query360", "text": "三甲医院外科医生，擅长腹腔镜微创手术"}
+{"_id": "query361", "text": "电商运营店长，熟悉天猫平台规则"}
+{"_id": "query362", "text": "游戏数值策划，负责经济系统平衡"}
+{"_id": "query363", "text": "小学语文教师，有丰富的班主任经验"}
+{"_id": "query364", "text": "平面设计师，服务过4A广告公司"}
+{"_id": "query365", "text": "投资分析师，覆盖TMT行业研究"}
+{"_id": "query366", "text": "嵌入式软件开发，精通ARM和C++"}
+{"_id": "query367", "text": "品牌经理，负责快消品市场战略"}
+{"_id": "query368", "text": "行政专员，擅长大型活动组织策划"}
+{"_id": "query369", "text": "精益生产专家，熟悉VSM和看板管理"}
+{"_id": "query370", "text": "薪酬绩效经理，设计过完整的薪酬体系"}
+{"_id": "query371", "text": "网络安全专家，精通渗透测试和应急响应"}
+{"_id": "query372", "text": "连锁餐饮运营总监，管理过50家门店"}
+{"_id": "query373", "text": "资深猎头顾问，专注互联网高管寻访"}
+{"_id": "query374", "text": "室内设计师，作品获得过国际设计大奖"}
+{"_id": "query375", "text": "视频剪辑师，熟练使用Final Cut Pro"}
+{"_id": "query376", "text": "物流仓储经理，有自动化仓库管理经验"}
+{"_id": "query377", "text": "数据库管理员DBA，精通MySQL性能优化"}
+{"_id": "query378", "text": "五星级酒店总经理，有丰富的筹开经验"}
+{"_id": "query379", "text": "汽车NVH工程师，负责车辆异响问题解决"}
+{"_id": "query380", "text": "Senior Backend Engineer, familiar with Golang and microservices"}
+{"_id": "query381", "text": "用户研究员，熟练运用各类定性研究方法"}
+{"_id": "query382", "text": "CPA持证审计师，有四大会计师事务所背景"}
+{"_id": "query383", "text": "短视频编导，打造过百万粉丝级别账号"}
+{"_id": "query384", "text": "生物制药研发科学家，专注抗体药物开发"}
+{"_id": "query385", "text": "云解决方案架构师，持有AWS/GCP专业认证"}
+{"_id": "query386", "text": "游戏引擎开发，精通C++和图形学"}
+{"_id": "query387", "text": "公关经理，擅长媒体关系维护和危机公关"}
+{"_id": "query388", "text": "服装设计师，有独立设计师品牌经验"}
+{"_id": "query389", "text": "管理咨询顾问，服务过MBB咨询公司"}
+{"_id": "query390", "text": "临床监查员CRA，熟悉GCP和临床试验流程"}
+{"_id": "query391", "text": "招聘经理，负责技术团队人才招聘"}
+{"_id": "query392", "text": "用户增长负责人，擅长裂变活动策划"}
+{"_id": "query393", "text": "城市规划师，主持过城市总体规划编制"}
+{"_id": "query394", "text": "医疗器械注册，熟悉NMPA申报流程"}
+{"_id": "query395", "text": "活动策划执行，有大型发布会统筹经验"}
+{"_id": "query396", "text": "风险控制经理，搭建过互联网金融风控模型"}
+{"_id": "query397", "text": "酒店前厅部经理，熟悉Opera系统"}
+{"_id": "query398", "text": "内容策略专家，负责平台内容生态建设"}
+{"_id": "query399", "text": "DevOps工程师，精通CI/CD流水线搭建"}
+{"_id": "query400", "text": "物业项目经理，管理过大型高端社区"}
+{"_id": "query401", "text": "动画师，参与过知名动画电影项目制作"}
+{"_id": "query402", "text": "企业培训师，专注于领导力开发领域"}
+{"_id": "query403", "text": "奢侈品销售顾问，拥有丰富高净值客户资源"}
+{"_id": "query404", "text": "政府关系总监，熟悉政策申报流程"}
+{"_id": "query405", "text": "材料工程师，专注于高分子材料研发"}
+{"_id": "query406", "text": "数据仓库工程师，精通Hadoop和Spark"}
+{"_id": "query407", "text": "健身教练，持有ACE-CPT等国际认证"}
+{"_id": "query408", "text": "财务分析经理，负责公司全面预算与预测"}
+{"_id": "query409", "text": "移动端开发，精通iOS/Android原生开发"}
+{"_id": "query410", "text": "保险精算师，负责产品定价与准备金评估"}
+{"_id": "query411", "text": "景观设计师，作品获得过国际景观大奖"}
+{"_id": "query412", "text": "化工工艺工程师，负责生产线技术优化"}
+{"_id": "query413", "text": "海外市场推广，熟悉东南亚本地化运营"}
+{"_id": "query414", "text": "采购总监，具备出色的供应商管理能力"}
+{"_id": "query415", "text": "机器人SLAM算法工程师，精通多传感器融合"}
+{"_id": "query416", "text": "首席技术官CTO，有带领大型技术团队经验"}
+{"_id": "query417", "text": "资深文案策划，能撰写有销售力的文案"}
+{"_id": "query418", "text": "电商视觉设计师，擅长提升店铺转化率"}
+{"_id": "query419", "text": "高中数学教师，有奥林匹克竞赛辅导经验"}
+{"_id": "query420", "text": "房地产开发报建，熟悉政府审批流程"}
+{"_id": "query421", "text": "组织发展OD专家，负责企业文化和人才梯队"}
+{"_id": "query422", "text": "质量管理总监，推行过IATF 16949体系"}
+{"_id": "query423", "text": "基金经理，过往业绩优异，穿越牛熊"}
+{"_id": "query424", "text": "税务顾问，精通税务筹划和风险规避"}
+{"_id": "query425", "text": "VFX Artist, proficient in Nuke and 3D compositing"}
+{"_id": "query426", "text": "游戏社区运营，擅长提升用户活跃与粘性"}
+{"_id": "query427", "text": "商务拓展BD经理，具备出色谈判能力"}
+{"_id": "query428", "text": "技术支持工程师，能解决复杂系统问题"}
+{"_id": "query429", "text": "服装制版师，能精准还原设计师图稿"}
+{"_id": "query430", "text": "首席信息官CIO，负责集团信息化战略"}
+{"_id": "query431", "text": "投行IBD分析师，参与过企业IPO项目"}
+{"_id": "query432", "text": "幼儿教师，持有蒙特梭利教师资格证"}
+{"_id": "query433", "text": "ERP实施顾问，精通SAP或Oracle"}
+{"_id": "query434", "text": "康复理疗师，擅长运动损伤后的康复治疗"}
+{"_id": "query435", "text": "有海外工程项目管理经验，英语流利"}
+{"_id": "query436", "text": "薪酬运营专员，负责薪资核算及社保公积金"}
+{"_id": "query437", "text": "电商直播主播，美妆品类带货能力强"}
+{"_id": "query438", "text": "工业设计师，熟悉产品从概念到量产流程"}
+{"_id": "query439", "text": "模拟IC设计，有电源管理芯片设计经验"}
+{"_id": "query440", "text": "法医，有重特大刑事案件现场勘查经验"}
+{"_id": "query441", "text": "电商买手，对时尚潮流有敏锐的洞察力"}
+{"_id": "query442", "text": "知识产权顾问，擅长专利布局与分析"}
+{"_id": "query443", "text": "招聘Java高级工程师，要求熟悉Spring Cloud全家桶及分布式事务处理。"}
+{"_id": "query444", "text": "寻找一名资深产品经理，需要有SaaS产品商业化和从0到1的成功经验。"}
+{"_id": "query445", "text": "需要一位前端架构师，能主导大型项目性能优化和工程化体系建设。"}
+{"_id": "query446", "text": "寻找算法工程师，专注于NLP领域，有对话系统或知识图谱相关经验。"}
+{"_id": "query447", "text": "招聘数据分析专家，精通SQL、Python，并能使用Tableau制作决策报表。"}
+{"_id": "query448", "text": "急聘SRE工程师，要求深入理解Kubernetes，并有丰富的故障排查经验。"}
+{"_id": "query449", "text": "寻找测试开发工程师，需要具备独立搭建自动化测试平台的能力。"}
+{"_id": "query450", "text": "招聘UI/UX设计师，需要有移动端App设计经验和完整的设计系统作品。"}
+{"_id": "query451", "text": "寻找新媒体运营总监，能独立策划品牌整合营销活动，有百万粉账号经验。"}
+{"_id": "query452", "text": "需要一位大客户销售总监，具备带领30人以上团队和制定销售战略的能力。"}
+{"_id": "query453", "text": "招聘市场营销经理，要求擅长品牌定位、市场活动策划和预算管理。"}
+{"_id": "query454", "text": "寻找人力资源业务合作伙伴(HRBP)，要求支持过500人以上技术团队。"}
+{"_id": "query455", "text": "需要一名财务总监(CFO)，有带领公司完成IPO或多轮融资的经验。"}
+{"_id": "query456", "text": "招聘公司法务，专注于投融资、并购领域的法律事务，有律所经验者优先。"}
+{"_id": "query457", "text": "寻找供应链总监，能全面负责采购、仓储、物流并进行成本优化。"}
+{"_id": "query458", "text": "需要有PMP认证的项目经理，能管理千万级预算的复杂软件交付项目。"}
+{"_id": "query459", "text": "招聘建筑结构工程师，要求持有一级注册结构工程师执照，熟悉超高层设计。"}
+{"_id": "query460", "text": "寻找三甲医院主治医师，普外科方向，要求熟练掌握腹腔镜微创技术。"}
+{"_id": "query461", "text": "需要一位天猫旗舰店店长，精通直通车、钻展等推广工具和活动策划。"}
+{"_id": "query462", "text": "招聘游戏数值策划，要求对SLG或MMORPG的经济系统有深刻理解。"}
+{"_id": "query463", "text": "寻找有经验的小学语文教师，能胜任班主任工作，有市级公开课经验者佳。"}
+{"_id": "query464", "text": "需要一名资深平面设计师，有服务国际知名品牌（4A广告公司背景）的经验。"}
+{"_id": "query465", "text": "招聘TMT行业投资分析师，要求有券商研究所或公募基金从业背景。"}
+{"_id": "query466", "text": "寻找嵌入式软件专家，精通Linux内核驱动开发，熟悉ARM架构。"}
+{"_id": "query467", "text": "需要一位快消品品牌经理，能独立负责年销售额过亿的品牌战略规划。"}
+{"_id": "query468", "text": "招聘总经理助理，要求有良好的文笔，能起草重要文件和报告。"}
+{"_id": "query469", "text": "寻找精益生产专家，要求在大型制造企业成功推行过VSM和TPM项目。"}
+{"_id": "query470", "text": "需要一位薪酬绩效总监，能设计并实施与公司战略挂钩的激励体系。"}
+{"_id": "query471", "text": "招聘网络安全专家，持有CISSP/CISP证书，精通红队攻防和渗透测试。"}
+{"_id": "query472", "text": "寻找连锁餐饮运营总监，要求有百家以上门店的管理和标准化运营经验。"}
+{"_id": "query473", "text": "需要一位资深猎头，专注于金融或互联网行业高端职位的寻访。"}
+{"_id": "query474", "text": "招聘室内设计师，要求作品曾获得国内外知名设计奖项，能手绘方案。"}
+{"_id": "query475", "text": "寻找影视后期剪辑师，熟练运用FCPX/Premiere，有电影或网剧作品。"}
+{"_id": "query476", "text": "需要一位物流中心经理，有2万平以上自动化仓库（WMS/WCS）的管理经验。"}
+{"_id": "query477", "text": "招聘DBA专家，要求精通MySQL/PostgreSQL集群高可用和性能调优。"}
+{"_id": "query478", "text": "寻找五星级酒店总经理，要求有国际联号酒店品牌（如万豪、希尔顿）背景。"}
+{"_id": "query479", "text": "需要汽车NVH高级工程师，能解决整车风噪、路噪等疑难杂症问题。"}
+{"_id": "query480", "text": "招聘用户研究员（UXR），要求熟练掌握用户访谈、问卷设计等多种研究方法。"}
+{"_id": "query481", "text": "需要有CPA证书的审计项目经理，有四大会计师事务所工作经验者优先。"}
+{"_id": "query482", "text": "寻找短视频编导，要求有成功打造百万粉丝账号的案例，懂内容和流量。"}
+{"_id": "query483", "text": "招聘抗体药物研发首席科学家，要求有带领团队完成新药IND申报的经验。"}
+{"_id": "query484", "text": "需要云解决方案架构师，精通AWS或GCP，能为大型企业设计上云方案。"}
+{"_id": "query485", "text": "招聘游戏引擎开发工程师，要求精通C++和图形学，有渲染管线优化经验。"}
+{"_id": "query486", "text": "寻找公关总监，要求具备丰富的媒体资源和出色的危机公关处理能力。"}
+{"_id": "query487", "text": "需要一位独立服装设计师，要求作品风格成熟，并有线上或线下销售渠道。"}
+{"_id": "query488", "text": "招聘战略咨询顾问，要求有MBB等顶级咨询公司项目经验，逻辑清晰。"}
+{"_id": "query489", "text": "寻找临床监查员（CRA），要求有肿瘤或心血管领域的国际多中心试验经验。"}
+{"_id": "query490", "text": "需要一位技术招聘负责人，能搭建招聘渠道，提升中高级技术人才到岗率。"}
+{"_id": "query491", "text": "招聘用户增长总监，要求精通A/B测试和用户行为分析，以数据驱动增长。"}
+{"_id": "query492", "text": "寻找城市规划设计师，要求主持过控制性详细规划或城市设计项目。"}
+{"_id": "query493", "text": "需要医疗器械注册经理，成功获得过三类医疗器械产品注册证。"}
+{"_id": "query494", "text": "招聘大型活动策划总监，要求有万人级别音乐节或发布会的统筹经验。"}
+{"_id": "query495", "text": "寻找风险控制总监，要求有搭建互联网金融或支付领域风控体系的经验。"}
+{"_id": "query496", "text": "需要一位豪华酒店前厅部经理，熟悉Opera系统，英语口语流利。"}
+{"_id": "query497", "text": "招聘内容策略负责人，要求能为平台规划内容生态，并对用户留存负责。"}
+{"_id": "query498", "text": "寻找资深DevOps工程师，要求精通Kubernetes、Prometheus和CI/CD。"}
+{"_id": "query499", "text": "需要一位大型购物中心物业经理，要求对设施设备和客户服务有全面管理经验。"}
+{"_id": "query500", "text": "招聘资深动画师，要求有参与知名动画电影项目经历，熟悉Maya流程。"}
+{"_id": "query501", "text": "寻找企业大学校长或培训总监，能构建企业领导力发展和人才培养体系。"}
+{"_id": "query502", "text": "需要一位奢侈品店长，有管理顶级品牌（如Hermès、Chanel）门店的经验。"}
+{"_id": "query503", "text": "招聘政府事务总监，要求在北京或重要省份有深厚的政府部门人脉资源。"}
+{"_id": "query504", "text": "寻找高分子材料专家，要求在高分子合成或改性领域有突出研究成果。"}
+{"_id": "query505", "text": "招聘数据仓库架构师，要求精通数据建模理论，有TB级数仓建设经验。"}
+{"_id": "query506", "text": "需要一名持有国际认证（ACE/NSCA）的私人健身教练，有运动康复经验。"}
+{"_id": "query507", "text": "招聘FP&A总监，要求能领导财务团队进行全面预算、经营分析和资本运作。"}
+{"_id": "query508", "text": "寻找iOS/Android技术专家，要求在性能优化、架构设计方面有深入研究。"}
+{"_id": "query509", "text": "需要一名准精算师或精算师，负责保险产品定价、准备金评估和偿付能力分析。"}
+{"_id": "query510", "text": "招聘景观设计主创，要求有大型城市公园或高端地产项目的成功案例。"}
+{"_id": "query511", "text": "寻找化工工艺开发负责人，能带领团队完成实验室小试、中试和工业化生产。"}
+{"_id": "query512", "text": "需要一位游戏海外本地化运营经理，要求有日韩或欧美市场的成功发行经验。"}
+{"_id": "query513", "text": "招聘采购总监，要求有电子制造业背景，熟悉全球供应链和战略寻源。"}
+{"_id": "query514", "text": "寻找机器人SLAM算法专家，要求在视觉SLAM或多传感器融合领域有深入研究。"}
+{"_id": "query515", "text": "需要一位经验丰富的CTO，有带领技术团队从初创到上市的完整经历。"}
+{"_id": "query516", "text": "招聘资深广告文案，要求有服务知名品牌的经验，能产出刷屏级作品。"}
+{"_id": "query517", "text": "寻找电商视觉总监，要求能定义品牌视觉风格，并对点击率、转化率负责。"}
+{"_id": "query518", "text": "需要一位特级教师或金牌竞赛教练，能在高中数学或物理领域拔高培优。"}
+{"_id": "query519", "text": "招聘房地产开发报建总监，要求熟悉全流程，在拿地、规划报批方面资源丰富。"}
+{"_id": "query520", "text": "寻找组织发展（OD）专家，要求主导过大型组织变革和企业文化建设项目。"}
+{"_id": "query521", "text": "需要一位汽车行业质量总监，要求精通IATF 16949，有应对主机厂审核经验。"}
+{"_id": "query522", "text": "招聘公募基金经理，要求管理的基金产品在过去3-5年业绩排名前1/4。"}
+{"_id": "query523", "text": "寻找税务总监，要求精通国内及国际税务筹划，有四大会计师事务所背景。"}
+{"_id": "query524", "text": "招聘游戏社区运营总监，要求能构建用户社群体系，提升游戏生命周期。"}
+{"_id": "query525", "text": "需要一位资深商务拓展（BD）总监，要求具备出色的谈判技巧和渠道开拓能力。"}
+{"_id": "query526", "text": "寻找技术支持总监，要求能带领团队为大型企业客户提供7x24小时技术支持。"}
+{"_id": "query527", "text": "招聘服装首席制版师，要求能与设计师紧密合作，精通立体裁剪。"}
+{"_id": "query528", "text": "需要一位首席信息官（CIO），负责集团的数字化转型和信息安全战略。"}
+{"_id": "query529", "text": "寻找投行IBD部门VP或ED，要求主导过多个IPO或并购重组项目。"}
+{"_id": "query530", "text": "招聘幼儿园园长，要求有国际或双语幼儿园管理经验，熟悉蒙特梭利等教法。"}
+{"_id": "query531", "text": "需要SAP/Oracle的资深ERP项目经理，能管理跨国实施项目。"}
+{"_id": "query532", "text": "寻找运动康复专家，要求有物理治疗师执照，擅长处理运动损伤。"}
+{"_id": "query533", "text": "需要一位有海外工程总包（EPC）项目管理经验的工程师，能常驻海外。"}
+{"_id": "query534", "text": "招聘薪酬福利总监，要求能设计有市场竞争力的全面薪酬激励方案。"}
+{"_id": "query535", "text": "寻找美妆品类直播带货达人，要求粉丝量百万以上，历史销售数据优异。"}
+{"_id": "query536", "text": "招聘工业设计总监，要求有获得红点、iF金奖等国际顶级设计奖项的经历。"}
+{"_id": "query537", "text": "需要一位模拟IC设计专家，在ADC/DAC或PMIC领域有10年以上经验。"}
+{"_id": "query538", "text": "招聘资深法医，要求在重特大案件的物证鉴定方面有关键性贡献。"}
+{"_id": "query539", "text": "寻找时尚买手总监，要求对国际流行趋势有极强的预判能力和商业嗅觉。"}
+{"_id": "query540", "text": "招聘知识产权总监，要求能为公司构建全球专利护城河，有专利诉讼经验。"}
+{"_id": "query541", "text": "Seeking a bilingual marketing manager fluent in both English and Mandarin."}
+{"_id": "query542", "text": "Looking for a remote full-stack developer with expertise in Python and React."}
+{"_id": "query543", "text": "AI research scientist wanted, with publications in top conferences like NeurIPS/ICML."}
+{"_id": "query544", "text": "Hiring a Chief of Staff with experience working directly with C-level executives."}
+{"_id": "query545", "text": "需要一位资深城市规划师，能负责国家级新区或重点区域的战略规划。"}
+{"_id": "query546", "text": "寻找医疗美容医院院长，要求有技术背景和出色的运营管理能力。"}
+{"_id": "query547", "text": "招聘连锁健身房课程研发总监，能打造行业爆款的团体课程体系。"}
+{"_id": "query548", "text": "需要一位汽车智能座舱产品负责人，熟悉HMI设计和用户体验。"}
+{"_id": "query549", "text": "寻找一名资深编剧，要求有担任热播电视剧总编剧或剧本监制的经验。"}
+{"_id": "query550", "text": "招聘银行分行行长，要求有丰富的对公业务资源和出色的团队管理能力。"}
+{"_id": "query551", "text": "需要一位零售商品规划专家，能根据数据分析进行精准的商品组货和定价。"}
+{"_id": "query552", "text": "招聘私募股权（PE）投资总监，要求在消费或医疗领域有成功的投资案例。"}
+{"_id": "query553", "text": "寻找游戏发行负责人，能主导游戏在国内的版号申请和上线发行工作。"}
+{"_id": "query554", "text": "需要一名能独立处理涉外仲裁案件的律师，要求英语可作为工作语言。"}
+{"_id": "query555", "text": "招聘政企业务销售专家，要求有向政府或大型国企销售解决方案的经验。"}
+{"_id": "query556", "text": "寻找能熟练运用AR/VR技术进行数字内容创作的艺术家或开发者。"}
+{"_id": "query557", "text": "需要一名负责半导体设备（如光刻机、刻蚀机）安装调试的现场工程师。"}
+{"_id": "query558", "text": "招聘酒店收益管理总监，要求精通数据分析，能最大化酒店RevPAR。"}
+{"_id": "query559", "text": "寻找一名专业的同声传译员，要求有联合国或APEC等大型国际会议经验。"}
+{"_id": "query560", "text": "需要一位能进行高精度手工模型制作的大师，如建筑模型或车辆模型。"}
+{"_id": "query561", "text": "招聘负责ESG（环境、社会及管治）报告和战略规划的专家。"}
+{"_id": "query562", "text": "寻找一名精通剧本杀或密室逃脱设计的创意策划，有爆款作品者优先。"}
+{"_id": "query563", "text": "需要一名有海外资产配置经验的私人银行家，服务超高净值客户。"}
+{"_id": "query564", "text": "招聘能运用AIGC工具（如Midjourney, Stable Diffusion）进行商业创作的设计师。"}
+{"_id": "query565", "text": "寻找一名精通古典家具修复或古籍修复的专家，具备工匠精神。"}
+{"_id": "query566", "text": "需要一位有隧道或地铁盾构施工管理经验的总工程师。"}
+{"_id": "query567", "text": "招聘负责大语言模型（LLM）微调和提示工程的AI工程师。"}
+{"_id": "query568", "text": "寻找一名专业的茶艺师或香道师，能进行高水平的表演和文化讲解。"}
+{"_id": "query569", "text": "需要一位熟悉碳交易和碳中和路径规划的咨询专家。"}
+{"_id": "query570", "text": "招聘负责公司网络靶场建设和运营的网络安全演练专家。"}
+{"_id": "query571", "text": "寻找一名能撰写高质量行业白皮书和研究报告的分析师。"}
+{"_id": "query572", "text": "需要一位有国际学校或IB课程教学经验的学科带头人。"}
+{"_id": "query573", "text": "招聘负责高端装备（如航空发动机）仿真计算（CAE）的专家。"}
+{"_id": "query574", "text": "寻找一名专业的医疗器械临床事务（Clinical Affairs）经理。"}
+{"_id": "query575", "text": "需要一位在生命科学领域有成功退出经验的风险投资家（VC）。"}
+{"_id": "query576", "text": "招聘负责公司并购（M&A）后整合（PMI）的专家顾问。"}
+{"_id": "query577", "text": "寻找一名熟悉Web3.0和区块链技术，有DApp开发经验的产品经理。"}
+{"_id": "query578", "text": "需要一位能设计和实施员工心理援助计划（EAP）的企业顾问。"}
+{"_id": "query579", "text": "招聘能为高净值客户提供家族信托和财富传承规划的法律或税务专家。"}
+{"_id": "query580", "text": "寻找一名专业的食品风味研发师，能创造出新颖且受欢迎的口味。"}
+{"_id": "query581", "text": "需要一位在临终关怀或老年护理领域有丰富经验的专业人士。"}
+{"_id": "query582", "text": "招聘能运用量化模型进行品牌资产（Brand Equity）评估的市场研究专家。"}
+{"_id": "query583", "text": "寻找一名专业的马术教练，持有国际认可的教练资格证书。"}
+{"_id": "query584", "text": "需要一位负责卫星通信系统设计或载荷管理的航天工程师。"}
+{"_id": "query585", "text": "招聘负责保护性耕作和精准农业技术推广的农业专家。"}
+{"_id": "query586", "text": "寻找一名擅长处理复杂供应链中断风险的供应链风险管理专家。"}
+{"_id": "query587", "text": "需要一位有大型音乐节或艺术节策展和制作经验的出品人。"}
+{"_id": "query588", "text": "招聘负责高精度地图（HD Map）数据生产和处理的测绘工程师。"}
+{"_id": "query589", "text": "寻找一名在量子计算或光子芯片领域有深入研究的科学家。"}
+{"_id": "query590", "text": "需要一位能进行复杂系统动力学建模与仿真的工程师。"}
+{"_id": "query591", "text": "招聘负责电池管理系统（BMS）算法开发的嵌入式工程师。"}
+{"_id": "query592", "text": "寻找一名专业的无障碍设计顾问，致力于提升数字产品和物理环境的包容性。"}
+{"_id": "query593", "text": "需要一位有IPO项目经验的财经公关总监。"}
+{"_id": "query594", "text": "招聘一名能进行文物三维扫描和数字化存档的技术专家。"}
+{"_id": "query595", "text": "寻找一名熟悉预制菜研发和供应链管理的食品工业专家。"}
+{"_id": "query596", "text": "需要一位能进行灾难恢复和业务连续性规划（BCP/DR）的IT专家。"}
+{"_id": "query597", "text": "招聘负责儿童教育机器人课程体系研发的教育产品专家。"}
+{"_id": "query598", "text": "寻找一名专注于开发AIGC时代下创作者工具的产品经理。"}
+{"_id": "query599", "text": "需要一位能为企业制定数字化转型路线图的战略顾问。"}
+{"_id": "query600", "text": "招聘一名有处理跨境电商税务合规问题经验的税务专家。"}
+{"_id": "query601", "text": "寻找一名能运用基因编辑技术（如CRISPR）进行研究的生物学家。"}
+{"_id": "query602", "text": "需要一位有飞行汽车或eVTOL研发经验的空气动力学工程师。"}
+{"_id": "query603", "text": "招聘一名专业的体育数据分析师，能为球队提供战术建议。"}
+{"_id": "query604", "text": "寻找一名能设计和实施大型多人在线游戏反作弊系统的安全工程师。"}
+{"_id": "query605", "text": "需要一位有管理数万台服务器规模数据中心经验的运维总监。"}
+{"_id": "query606", "text": "招聘负责公司投资者关系（IR）的专业人士，维护与资本市场的沟通。"}
+{"_id": "query607", "text": "寻找一名熟悉功能性食品或保健品研发的食品科学家。"}
+{"_id": "query608", "text": "需要一位能为智能家居系统设计全屋智能联动场景的产品经理。"}
+{"_id": "query609", "text": "招聘一名有光通信芯片或模块研发经验的硬件工程师。"}
+{"_id": "query610", "text": "寻找一名能进行复杂金融衍生品定价模型开发的量化分析师。"}
+{"_id": "query611", "text": "需要一位有处理过重大环境污染事件修复项目的环境工程师。"}
+{"_id": "query612", "text": "招聘一名负责为高端客户提供定制旅行和全球礼宾服务的顾问。"}
+{"_id": "query613", "text": "寻找一名有设计和运营大型在线社区经验的社群运营专家。"}
+{"_id": "query614", "text": "需要一位有智慧园区或智慧楼宇整体解决方案规划经验的架构师。"}
+{"_id": "query615", "text": "招聘一名能进行高端腕表机芯维修和保养的制表师。"}
+{"_id": "query616", "text": "寻找一名熟悉各类公益项目运作，能进行项目评估和管理的基金会项目官员。"}
+{"_id": "query617", "text": "需要一位有丰富的线上和线下整合营销（OMO）策划经验的市场总监。"}
+{"_id": "query618", "text": "招聘一名能进行电影调色，决定影片整体视觉基调的调色师。"}
+{"_id": "query619", "text": "寻找一名熟悉半导体行业，能进行产业链分析的战略研究员。"}
+{"_id": "query620", "text": "需要一位能为企业客户提供云成本优化（FinOps）咨询服务的专家。"}
+{"_id": "query621", "text": "招聘一名能进行专业的艺术品拍卖和估价的拍卖师。"}
+{"_id": "query622", "text": "寻找一名有处理海量时序数据（Time Series Data）经验的数据工程师。"}
+{"_id": "query623", "text": "需要一位有丰富的可再生能源（如风电、光伏）项目开发经验的经理。"}
+{"_id": "query624", "text": "招聘一名能进行专业沙盘模拟，为企业高管提供战略决策培训的顾问。"}
+{"_id": "query625", "text": "寻找一名熟悉各类传感器原理，能进行多传感器数据融合算法开发的工程师。"}
+{"_id": "query626", "text": "需要一位能进行复杂手术机器人控制系统开发的软件工程师。"}
+{"_id": "query627", "text": "招聘一名有奢侈品行业CRM运营经验，能进行高净值客户关系管理的专家。"}
+{"_id": "query628", "text": "寻找一名有设计和实施大型分布式数据库（如TiDB）经验的架构师。"}
+{"_id": "query629", "text": "需要一位能为客户提供专业色彩搭配和衣橱管理服务的形象顾问。"}
+{"_id": "query630", "text": "招聘一名有城市更新或旧城改造项目策划和操盘经验的地产专家。"}
+{"_id": "query631", "text": "寻找一名有搭建推荐系统冷启动解决方案经验的算法工程师。"}
+{"_id": "query632", "text": "需要一位能进行专业寻龙点穴，并运用现代仪器进行勘测的风水大师。"}
+{"_id": "query633", "text": "招聘一名能进行高海拔攀登，并为商业登山队提供向导服务的登山家。"}
+{"_id": "query634", "text": "寻找一名有丰富的地下管线探测和非开挖修复技术经验的工程师。"}
+{"_id": "query635", "text": "需要一位能进行赛车调校，优化车辆悬挂、引擎和空气动力学的赛车工程师。"}
+{"_id": "query636", "text": "招聘一名能进行古代壁画修复和病害治理的文物保护专家。"}
+{"_id": "query637", "text": "寻找一名能运用行为经济学理论来优化产品设计和用户体验的专家。"}
+{"_id": "query638", "text": "需要一位有丰富的音乐剧制作或导演经验的艺术专业人士。"}
+{"_id": "query639", "text": "招聘一名能进行专业的犬只搜救或警犬训练的训犬师。"}
+{"_id": "query640", "text": "寻找一名有设计和运营密室逃脱或沉浸式戏剧（Larp）经验的策划。"}
+{"_id": "query641", "text": "需要一位熟悉各类面料特性，能为高端时装提供面料解决方案的专家。"}
+{"_id": "query642", "text": "招聘一名有丰富的网络小说IP改编（动漫、影视）经验的制作人。"}
